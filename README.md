@@ -3,6 +3,10 @@
 **AI Philosophical Dialogue Platform**  
 *Polytonic Ancient Greek · Philosophical Inquiry · The First Teacher*
 
+[![Website](https://img.shields.io/badge/website-daimones.ai-blue)](https://daimones.ai)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Community](https://img.shields.io/badge/community-join-orange)](../../discussions)
+
 ---
 
 ## 📜 Welcome to the DAIMONES Community
@@ -31,15 +35,20 @@ Join the community conversation about AI, philosophy, and the future of digital 
 
 ## 🚀 Getting Started
 
-### For Users
-- **Try DAIMONES:** Visit [daimones.ai](https://daimones.ai)
-- **Documentation:** See our [User Guide](docs/USER_GUIDE.md)
-- **FAQ:** Check [Frequently Asked Questions](docs/FAQ.md)
+### For New Users
+1. **Try DAIMONES:** Visit [daimones.ai](https://daimones.ai)
+2. **Read the FAQ:** [Frequently Asked Questions](docs/FAQ.md)
+3. **User Guide:** [How to use DAIMONES](docs/USER_GUIDE.md)
 
 ### For Contributors
-- **Bug Reports:** Use our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
-- **Feature Requests:** Use our [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md)
-- **Aristotle Feedback:** Use our [Aristotle Feedback Template](.github/ISSUE_TEMPLATE/aristotle_feedback.md)
+1. **Read This First:** [Contributing Guide](CONTRIBUTING.md)
+2. **Code of Conduct:** [Community Guidelines](CODE_OF_CONDUCT.md)
+3. **Issue Labels:** [Understanding Our Labels](docs/LABELS_GUIDE.md)
+
+### For Researchers
+- **Academic Licenses:** Contact architect@daimones.ai
+- **Research Tools:** Tagging, export, search (requires subscription)
+- **Citation:** See [FAQ - Citing DAIMONES](docs/FAQ.md)
 
 ---
 
@@ -47,47 +56,61 @@ Join the community conversation about AI, philosophy, and the future of digital 
 
 | Document | Description |
 |----------|-------------|
-| [User Guide](docs/USER_GUIDE.md) | How to use DAIMONES |
-| [FAQ](docs/FAQ.md) | Frequently asked questions |
-| [Pricing](docs/PRICING.md) | Subscription tiers and institutional licenses |
-| [Community Guidelines](docs/COMMUNITY_GUIDELINES.md) | How to participate respectfully |
+| [**FAQ**](docs/FAQ.md) | Frequently asked questions |
+| [**Contributing Guide**](CONTRIBUTING.md) | How to contribute |
+| [**Code of Conduct**](CODE_OF_CONDUCT.md) | Community guidelines |
+| [**Labels Guide**](docs/LABELS_GUIDE.md) | Understanding issue labels |
+| [**User Guide**](docs/USER_GUIDE.md) | Platform usage guide |
 
 ---
 
 ## 🏷️ Issue Categories
 
-We use labels to organize issues:
+We use labels to organize issues. Here are the main categories:
 
-| Label | Purpose |
-|-------|---------|
-| `bug` | Something isn't working correctly |
-| `enhancement` | Feature requests and improvements |
-| `aristotle` | Issues with Aristotle's responses |
-| `greek` | Polytonic Greek orthography issues |
-| `translation` | Translation accuracy issues |
-| `philosophy` | Philosophical accuracy issues |
-| `good first issue` | Easy issues for newcomers |
-| `help wanted` | We need community help |
+| Label | Purpose | Template |
+|-------|---------|----------|
+| 🐛 `bug` | Report a bug | [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md) |
+| ✨ `enhancement` | Feature request | [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) |
+| 🏛️ `aristotle` | Aristotle feedback | [Aristotle Feedback](.github/ISSUE_TEMPLATE/aristotle_feedback.md) |
+| 📚 `documentation` | Docs improvement | Create issue directly |
+| ❓ `question` | Ask a question | Create issue directly |
+
+**Priority Levels:** `P0-Critical` | `P1-High` | `P2-Normal` | `P3-Low`
+
+**See all labels:** [Labels Guide](docs/LABELS_GUIDE.md)
 
 ---
 
-## 📖 About DAIMONES
+## 🎯 Areas We Need Help
 
-**Mission:** To make philosophical inquiry accessible through AI-powered dialogue with history's greatest thinkers.
+| Priority | Area | Description |
+|----------|------|-------------|
+| 🔴 **High** | Greek Orthography | Verify Polytonic Greek accents & breathings |
+| 🔴 **High** | Translation | Improve English/Modern Greek translations |
+| 🔴 **High** | Philosophy | Verify Aristotelian accuracy |
+| 🟡 **Medium** | Documentation | Improve user guides & FAQ |
+| 🟡 **Medium** | Testing | Test new features before release |
+| 🟢 **Low** | Community | Moderate discussions & welcome users |
 
-**Current Persona:** Aristotle (384-322 BCE)
-- The First Teacher
-- Head of the Lyceum
-- Author of Nicomachean Ethics, Metaphysics, Politics, and more
+---
 
-**Languages:** Polytonic Ancient Greek, Modern Greek, English
+## 📖 Quick Links
+
+| Resource | Link |
+|----------|------|
+| **Main Website** | [daimones.ai](https://daimones.ai) |
+| **Lyceum (User App)** | [lyceum.daimones.ai](https://lyceum.daimones.ai) |
+| **Admin Dashboard** | [admin.daimones.ai](https://admin.daimones.ai) |
+| **Discussions** | [Community Forum](../../discussions) |
+| **Issues** | [Issue Tracker](../../issues) |
 
 ---
 
 ## 🤝 Community
 
 ### Code of Conduct
-Please be respectful and constructive in all interactions. We welcome philosophers, students, developers, and curious minds from all backgrounds.
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand how we interact as a community.
 
 ### How to Help
 1. **Test Aristotle** and report issues
@@ -95,14 +118,19 @@ Please be respectful and constructive in all interactions. We welcome philosophe
 3. **Share your expertise** in discussions
 4. **Spread the word** to fellow philosophy enthusiasts
 
+### Recognition
+We acknowledge all contributors who help make DAIMONES better. Active contributors may be invited to join the core team!
+
 ---
 
 ## 📞 Contact
 
 | Purpose | Contact |
 |---------|---------|
-| **General Inquiries** | [Open an Issue](../../issues) |
+| **General Inquiries** | [Open a Discussion](../../discussions) |
 | **Technical Support** | [Bug Report](../../issues/new?template=bug_report.md) |
+| **Feature Requests** | [Feature Request](../../issues/new?template=feature_request.md) |
+| **Aristotle Feedback** | [Aristotle Feedback](../../issues/new?template=aristotle_feedback.md) |
 | **Partnership Inquiries** | architect@daimones.ai |
 | **Academic Licenses** | architect@daimones.ai |
 
@@ -110,7 +138,7 @@ Please be respectful and constructive in all interactions. We welcome philosophe
 
 ## 📄 License
 
-This repository (community documentation and issue tracker) is licensed under [MIT License](LICENSE).
+This community repository is licensed under [MIT](LICENSE).
 
 **Note:** The DAIMONES platform source code, training data, and AI models are proprietary and not included in this public repository.
 
@@ -131,6 +159,6 @@ Thank you to our community members, NGO partners, and academic advisors who help
 
 **🏛️ DAIMONES** · *Pursuing Wisdom Through Dialogue*
 
-[Report Issue](../../issues) · [Request Feature](../../issues) · [Discussions](../../discussions)
+[Report Issue](../../issues) · [Request Feature](../../issues) · [Discussions](../../discussions) · [Website](https://daimones.ai)
 
 </div>
