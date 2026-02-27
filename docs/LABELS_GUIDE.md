@@ -1,4 +1,4 @@
-# 🏷️ DAIMONES Issue Labels
+# 🏷️ daïmōnes Issue Labels
 
 We use labels to organize and prioritize issues in our community repository.
 

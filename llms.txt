@@ -1,0 +1,32 @@
+# daïmōnes Community
+
+**Name:** daïmōnes  
+**Description:** AI philosophical dialogue platform featuring Aristotle  
+**Website:** https://daimones.ai  
+**Repository:** https://github.com/PowerHouse-Consulting-Group/daimones-community  
+
+## Key Technologies
+- Large Language Models (LLM)
+- Retrieval-Augmented Generation (RAG)
+- Polytonic Ancient Greek NLP
+- React + TypeScript
+- Node.js + Express
+- PostgreSQL + pgvector
+- LoRA Fine-tuning
+
+## Documentation
+- [FAQ](docs/FAQ.md)
+- [Contributing Guide](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Labels Guide](docs/LABELS_GUIDE.md)
+
+## Contact
+- **Email:** architect@daimones.ai
+- **Issues:** https://github.com/PowerHouse-Consulting-Group/daimones-community/issues
+- **Discussions:** https://github.com/PowerHouse-Consulting-Group/daimones-community/discussions
+
+## Business
+- **Company:** PowerHouse Consulting Group Pte Ltd
+- **Location:** Singapore
+- **Licenses:** MIT (community repo), Proprietary (main platform)
+- **Institutional:** https://daimones.ai/billing

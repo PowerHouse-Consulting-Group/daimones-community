@@ -1,4 +1,4 @@
-# 🏛️ DAIMONES Community - GitHub About Section
+# 🏛️ daïmōnes Community - GitHub About Section
 
 ## Repository "About" Description
 
@@ -33,9 +33,9 @@ community
 
 ## 📖 Extended "About" Section (for README or Wiki)
 
-### What is DAIMONES?
+### What is daïmōnes?
 
-**DAIMONES** is an AI-powered philosophical dialogue platform that brings Aristotle's wisdom to the digital age. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
+**daïmōnes** is an AI-powered philosophical dialogue platform that brings Aristotle's wisdom to the digital age. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
 
 ### 🎯 Mission
 
@@ -131,7 +131,7 @@ research
 
 ### Open Graph / Twitter Card Meta Tags
 ```html
-<meta property="og:title" content="DAIMONES Community" />
+<meta property="og:title" content="daïmōnes Community" />
 <meta property="og:description" content="AI philosophical dialogue platform featuring Aristotle. Polytonic Ancient Greek, English & Modern Greek support." />
 <meta property="og:image" content="https://daimones.ai/assets/logo-daimones.png" />
 <meta property="og:url" content="https://github.com/PowerHouse-Consulting-Group/daimones-community" />

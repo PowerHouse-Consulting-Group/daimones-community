@@ -1,6 +1,6 @@
-# 🤝 Contributing to DAIMONES Community
+# 🤝 Contributing to daïmōnes Community
 
-Thank you for your interest in contributing to DAIMONES! This guide covers how to contribute to our **community repository**.
+Thank you for your interest in contributing to daïmōnes! This guide covers how to contribute to our **community repository**.
 
 ## 📋 What You Can Contribute
 
@@ -15,7 +15,7 @@ Found a bug in the platform? Use our [Bug Report Template](.github/ISSUE_TEMPLAT
 - Environment details (browser, OS, device)
 
 ### 2. Feature Requests ✨
-Have an idea to improve DAIMONES? Use our [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md).
+Have an idea to improve daïmōnes? Use our [Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.md).
 
 **Good feature requests include:**
 - Problem statement
@@ -74,6 +74,6 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand how we inter
 
 ---
 
-**Thank you for contributing to DAIMONES!** 🏛️
+**Thank you for contributing to daïmōnes!** 🏛️
 
 *Last Updated:* February 27, 2026

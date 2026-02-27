@@ -1,4 +1,4 @@
-# 🏛️ DAIMONES Community Code of Conduct
+# 🏛️ daïmōnes Community Code of Conduct
 
 ## Our Pledge
 

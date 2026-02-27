@@ -1,9 +1,9 @@
-# ❓ DAIMONES Frequently Asked Questions
+# ❓ daïmōnes Frequently Asked Questions
 
-## 🏛️ About DAIMONES
+## 🏛️ About daïmōnes
 
-### What is DAIMONES?
-DAIMONES is an AI-powered philosophical dialogue platform featuring Aristotle as your guide to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
+### What is daïmōnes?
+daïmōnes is an AI-powered philosophical dialogue platform featuring Aristotle as your guide to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
 
 ### How does it work?
 Ask Aristotle questions about philosophy, ethics, logic, metaphysics, and more. Aristotle responds in Polytonic Ancient Greek with English translations, following Aristotelian methodology and sources.
@@ -104,7 +104,7 @@ Click "Forgot Password" on the login page, or contact **architect@daimones.ai** 
 
 ## 🎓 For Researchers
 
-### Can I use DAIMONES for academic research?
+### Can I use daïmōnes for academic research?
 Absolutely! We offer special tools for researchers:
 - Conversation tagging & categorization
 - Bulk export (CSV/PDF)
@@ -136,7 +136,7 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for ways
 ### Do you have a Code of Conduct?
 Yes! Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand how we interact as a community.
 
-### Where can I discuss DAIMONES with others?
+### Where can I discuss daïmōnes with others?
 Use our [Discussions](../../discussions) tab for:
 - General chat about philosophy
 - Feature discussions

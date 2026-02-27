@@ -1,6 +1,6 @@
-# 🏛️ DAIMONES
+# 🏛️ daïmōnes
 
-**AI Philosophical Dialogue Platform**  
+**AI Philosophical Dialogue Platform**
 *Polytonic Ancient Greek · Philosophical Inquiry · The First Teacher*
 
 [![Website](https://img.shields.io/badge/website-daimones.ai-blue)](https://daimones.ai)
@@ -9,9 +9,9 @@
 
 ---
 
-## 📜 Welcome to the DAIMONES Community
+## 📜 Welcome to the daïmōnes Community
 
-DAIMONES is an AI-powered philosophical dialogue platform featuring Aristotle as your guide to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
+daïmōnes is an AI-powered philosophical dialogue platform featuring Aristotle as your guide to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
 
 > *"The unexamined life is not worth living."* — Socrates
 
@@ -23,7 +23,7 @@ DAIMONES is an AI-powered philosophical dialogue platform featuring Aristotle as
 Found something wrong with Aristotle's responses? Have a bug to report? Use our **Issues** tab above to let us know.
 
 ### ✨ Request Features
-Have an idea to make DAIMONES better? We'd love to hear it! Submit a **Feature Request** in the Issues tab.
+Have an idea to make daïmōnes better? We'd love to hear it! Submit a **Feature Request** in the Issues tab.
 
 ### 🏛️ Aristotle Feedback
 Help us improve Aristotle's Greek orthography, translations, and philosophical accuracy. Your expertise matters!
@@ -36,9 +36,9 @@ Join the community conversation about AI, philosophy, and the future of digital 
 ## 🚀 Getting Started
 
 ### For New Users
-1. **Try DAIMONES:** Visit [daimones.ai](https://daimones.ai)
+1. **Try daïmōnes:** Visit [daimones.ai](https://daimones.ai)
 2. **Read the FAQ:** [Frequently Asked Questions](docs/FAQ.md)
-3. **User Guide:** [How to use DAIMONES](docs/USER_GUIDE.md)
+3. **User Guide:** [How to use daïmōnes](docs/USER_GUIDE.md)
 
 ### For Contributors
 1. **Read This First:** [Contributing Guide](CONTRIBUTING.md)
@@ -48,7 +48,7 @@ Join the community conversation about AI, philosophy, and the future of digital 
 ### For Researchers
 - **Academic Licenses:** Contact architect@daimones.ai
 - **Research Tools:** Tagging, export, search (requires subscription)
-- **Citation:** See [FAQ - Citing DAIMONES](docs/FAQ.md)
+- **Citation:** See [FAQ - Citing daïmōnes](docs/FAQ.md)
 
 ---
 
@@ -119,7 +119,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand how we inter
 4. **Spread the word** to fellow philosophy enthusiasts
 
 ### Recognition
-We acknowledge all contributors who help make DAIMONES better. Active contributors may be invited to join the core team!
+We acknowledge all contributors who help make daïmōnes better. Active contributors may be invited to join the core team!
 
 ---
 
@@ -140,13 +140,13 @@ We acknowledge all contributors who help make DAIMONES better. Active contributo
 
 This community repository is licensed under [MIT](LICENSE).
 
-**Note:** The DAIMONES platform source code, training data, and AI models are proprietary and not included in this public repository.
+**Note:** The daïmōnes platform source code, training data, and AI models are proprietary and not included in this public repository.
 
 ---
 
 ## 🙏 Acknowledgments
 
-Thank you to our community members, NGO partners, and academic advisors who help make DAIMONES better every day.
+Thank you to our community members, NGO partners, and academic advisors who help make daïmōnes better every day.
 
 **Special thanks to:**
 - Our NGO partners for orthography validation
@@ -157,7 +157,7 @@ Thank you to our community members, NGO partners, and academic advisors who help
 
 <div align="center">
 
-**🏛️ DAIMONES** · *Pursuing Wisdom Through Dialogue*
+**🏛️ daïmōnes** · *Pursuing Wisdom Through Dialogue*
 
 [Report Issue](../../issues) · [Request Feature](../../issues) · [Discussions](../../discussions) · [Website](https://daimones.ai)
 
