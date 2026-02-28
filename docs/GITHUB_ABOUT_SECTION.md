@@ -1,3 +1,36 @@
+# 🏛️ daïmōnes Community - GitHub About Section
+
+## Repository "About" Description
+
+### Short Description (for GitHub sidebar)
+```
+AI philosophical dialogue platform featuring Aristotle. Polytonic Ancient Greek, English & Modern Greek support. Community-driven development.
+```
+
+### Website
+```
+https://daimones.ai
+```
+
+### Topics/Tags
+```
+ai
+philosophy
+aristotle
+ancient-greek
+polytonic-greek
+llm
+rag
+nlp
+digital-humanities
+classical-studies
+education-technology
+open-source
+community
+```
+
+---
+
 ## 📖 Extended "About" Section (for README or Wiki)
 
 ### What is daïmōnes?
