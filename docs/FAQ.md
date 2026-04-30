@@ -9,7 +9,7 @@ daïmōnes is an AI-powered philosophical dialogue platform featuring Aristotle 
 Ask Aristotle questions about philosophy, ethics, logic, metaphysics, and more. Aristotle responds in Polytonic Ancient Greek with English translations, following Aristotelian methodology and sources.
 
 ### Is it free?
-We offer a **Free Tier** with 5 messages per day. For unlimited access and advanced features, subscribe to our **Disciple** ($29.99/month) or **Archon** ($99.99/month) tiers.
+We offer a **Free Tier** with 5 messages per day. For unlimited access and advanced features, subscribe to our **Disciple** (€29.99/moon) or **Archon** (€99.99/moon) tiers.
 
 ---
 
@@ -61,14 +61,14 @@ We maintain strict orthographic standards. If you find errors, please report the
 - Basic UI access
 - Conversation history (limited)
 
-### What's included in Disciple ($29.99/month)?
+### What's included in Disciple (€29.99/moon)?
 - Unlimited dialogue with Aristotle
 - Full conversation history & search
 - Academic research tools (tagging, export)
 - Mobile access (PWA)
 - Email support
 
-### What's included in Archon ($99.99/month)?
+### What's included in Archon (€99.99/moon)?
 - Everything in Disciple, plus:
 - All philosopher personas (Plato, Marcus Aurelius, more)
 - Voice Mode (speak with the Oracle)
@@ -77,7 +77,7 @@ We maintain strict orthographic standards. If you find errors, please report the
 - Founder badge & credits
 
 ### Do you offer institutional licenses?
-Yes! Universities and research institutions can license "Lyceum in a Box" for self-hosted deployments. Contact **architect@daimones.ai** for academic pricing.
+Yes! Universities and research institutions can license "Lyceum in a Box" for self-hosted deployments. Current institutional tiers include Department (€15,000/year), College (€40,000/year), and University (€75,000/year). Contact **architect@daimones.ai** for inquiries.
 
 ---
 
@@ -171,4 +171,4 @@ Use our [Discussions](../../discussions) tab for:
 
 **Have a question not answered here?** [Start a discussion](../../discussions) or [create an issue](../../issues/new/choose)!
 
-*Last Updated:* February 27, 2026
+*Last Updated:* April 30, 2026
