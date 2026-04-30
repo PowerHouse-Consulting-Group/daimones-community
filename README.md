@@ -11,7 +11,7 @@
 
 ## 📜 Welcome to the daïmōnes Community
 
-daïmōnes is an AI-powered philosophical dialogue platform featuring Aristotle as your guide to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
+daïmōnes is an AI-powered philosophical dialogue platform featuring the Great Minds of Antiquity as your guides to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
 
 > *"The unexamined life is not worth living."* — Socrates
 

@@ -3,10 +3,10 @@
 ## 🏛️ About daïmōnes
 
 ### What is daïmōnes?
-daïmōnes is an AI-powered philosophical dialogue platform featuring Aristotle as your guide to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
+daïmōnes is an AI-powered philosophical dialogue platform featuring customized philosopher personas as your guides to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
 
 ### How does it work?
-Ask Aristotle questions about philosophy, ethics, logic, metaphysics, and more. Aristotle responds in Polytonic Ancient Greek with English translations, following Aristotelian methodology and sources.
+Ask historical personas questions about philosophy, ethics, logic, metaphysics, and more. Personas respond in Polytonic Ancient Greek with English translations, following Aristotelian methodology and sources.
 
 ### Is it free?
 We offer a **Free Tier** with 5 messages per day. For unlimited access and advanced features, subscribe to our **Disciple** (€29.99/moon) or **Archon** (€99.99/moon) tiers.
@@ -19,10 +19,10 @@ We offer a **Free Tier** with 5 messages per day. For unlimited access and advan
 1. Visit [daimones.ai](https://daimones.ai)
 2. Create a free account or continue as guest
 3. Type your question in English, Greek, or Modern Greek
-4. Aristotle will respond with wisdom from the Lyceum!
+4. Your guide will respond with wisdom from the Lyceum!
 
 ### What languages are supported?
-- **Polytonic Ancient Greek** (Aristotle's responses)
+- **Polytonic Ancient Greek** (Persona responses)
 - **English** (queries and translations)
 - **Modern Greek** (queries and translations)
 
@@ -37,7 +37,7 @@ Yes! Registered users can:
 
 ## 🏛️ Aristotle Feedback
 
-### How can I help improve Aristotle?
+### How can I help improve the platform personas?
 We welcome feedback on:
 - **Greek Orthography** - Accents, breathings, spelling
 - **Translation** - English/Modern Greek accuracy
@@ -47,7 +47,7 @@ We welcome feedback on:
 Use our [Aristotle Feedback Template](.github/ISSUE_TEMPLATE/aristotle_feedback.md) to submit corrections.
 
 ### Why does Aristotle sometimes say "I don't know"?
-Aristotle admits ignorance for modern concepts (AI, internet, smartphones) that didn't exist in his time. This is intentional - it's called the **Aporia Protocol** and reflects Socratic wisdom.
+The personas admit ignorance for modern concepts (AI, internet, smartphones) that didn't exist in his time. This is intentional - it's called the **Aporia Protocol** and reflects Socratic wisdom.
 
 ### How accurate is the Polytonic Greek?
 We maintain strict orthographic standards. If you find errors, please report them! Our NGO partners validate all Greek forms.
@@ -57,12 +57,12 @@ We maintain strict orthographic standards. If you find errors, please report the
 ## 💳 Subscriptions
 
 ### What's included in the Free Tier?
-- 5 messages per day with Aristotle
+- 5 messages per day
 - Basic UI access
 - Conversation history (limited)
 
 ### What's included in Disciple (€29.99/moon)?
-- Unlimited dialogue with Aristotle
+- Unlimited dialogue with all personas
 - Full conversation history & search
 - Academic research tools (tagging, export)
 - Mobile access (PWA)
@@ -89,7 +89,7 @@ Yes! Universities and research institutions can license "Lyceum in a Box" for se
 3. Check our [status page](#) (coming soon)
 4. Report the issue using our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
 
-### Aristotle's Greek looks wrong. How do I report it?
+### The persona's Greek looks wrong. How do I report it?
 Use our [Aristotle Feedback Template](.github/ISSUE_TEMPLATE/aristotle_feedback.md) and include:
 - Your question
 - Aristotle's response
@@ -116,7 +116,7 @@ We're considering releasing anonymized dialogue datasets for NLP/philosophy rese
 
 ### How do I cite DAIMONES in my research?
 ```
-DAIMONES: AI Philosophical Dialogue Platform. 
+DAIMONES: Institutional AI Philosophical Dialogue Platform. 
 PowerHouse Consulting Group Pte Ltd, 2026. 
 https://daimones.ai
 ```
