@@ -1,21 +1,23 @@
 # daïmōnes Community
 
-**Name:** daïmōnes  
-**Description:** AI philosophical dialogue platform featuring Aristotle  
-**Website:** https://daimones.ai  
-**Repository:** https://github.com/PowerHouse-Consulting-Group/daimones-community  
+**Name:** daïmōnes
+**Description:** Sovereign AI reasoning engine for philosophical inquiry. Authentic dialectic dialogue grounded in classical corpora — free from corporate alignment constraints.
+**Website:** https://daimones.ai
+**Repository:** https://github.com/PowerHouse-Consulting-Group/daimones-community
 
 ## Key Technologies
-- Large Language Models (LLM)
-- Retrieval-Augmented Generation (RAG)
-- Polytonic Ancient Greek NLP
-- React + TypeScript
-- Node.js + Express
-- PostgreSQL + pgvector
-- LoRA Fine-tuning
+- Qwen3.6-27B-UD via llama.cpp (Q5_K_XL quantization)
+- Retrieval-Augmented Generation (RAG) with pgvector
+- Polytonic Ancient Greek NLP (Corpus Aristotelicum)
+- React + TypeScript frontend
+- Node.js + Express backend
+- PostgreSQL 15 + pgvector embeddings
 
 ## Documentation
-- [FAQ](docs/FAQ.md)
+- [Architecture](docs/architecture.md) — System overview, components, data flow
+- [Deployment](docs/deployment.md) — Docker, bare metal, air-gapped setup
+- [API Reference](docs/api.md) — REST endpoints, auth, SDK examples
+- [FAQ](docs/FAQ.md) — Frequently asked questions
 - [Contributing Guide](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Labels Guide](docs/LABELS_GUIDE.md)
