@@ -9,7 +9,7 @@ daïmōnes is an AI-powered philosophical dialogue platform featuring customized
 Ask historical personas questions about philosophy, ethics, logic, metaphysics, and more. Personas respond in Polytonic Ancient Greek with English translations, following Aristotelian methodology and sources.
 
 ### Is it free?
-We offer a **Free Tier** with 5 messages per day. For unlimited access and advanced features, subscribe to our **Disciple** (€29.99/moon) or **Archon** (€99.99/moon) tiers.
+We offer a **Free Tier** with 3 messages per day. For unlimited access and advanced features, subscribe to our **Disciple** ($29.99/month) or **Archon** ($99.99/month) tiers. Both plans include a 7-day free trial.
 
 ---
 
@@ -44,7 +44,7 @@ We welcome feedback on:
 - **Philosophy** - Aristotelian accuracy
 - **Sources** - Correct attribution
 
-Use our [Aristotle Feedback Template](.github/ISSUE_TEMPLATE/aristotle_feedback.md) to submit corrections.
+Use our [Aristotle Feedback Template](../.github/ISSUE_TEMPLATE/aristotle_feedback.md) to submit corrections.
 
 ### Why does Aristotle sometimes say "I don't know"?
 The personas admit ignorance for modern concepts (AI, internet, smartphones) that didn't exist in his time. This is intentional - it's called the **Aporia Protocol** and reflects Socratic wisdom.
@@ -57,18 +57,18 @@ We maintain strict orthographic standards. If you find errors, please report the
 ## 💳 Subscriptions
 
 ### What's included in the Free Tier?
-- 5 messages per day
+- 3 messages per day
 - Basic UI access
 - Conversation history (limited)
 
-### What's included in Disciple (€29.99/moon)?
+### What's included in Disciple ($29.99/month)?
 - Unlimited dialogue with all personas
 - Full conversation history & search
 - Academic research tools (tagging, export)
 - Mobile access (PWA)
 - Email support
 
-### What's included in Archon (€99.99/moon)?
+### What's included in Archon ($99.99/month)?
 - Everything in Disciple, plus:
 - All philosopher personas (Plato, Marcus Aurelius, more)
 - Voice Mode (speak with the Oracle)
@@ -77,7 +77,7 @@ We maintain strict orthographic standards. If you find errors, please report the
 - Founder badge & credits
 
 ### Do you offer institutional licenses?
-Yes! Universities and research institutions can license "Lyceum in a Box" for self-hosted deployments. Current institutional tiers include Department (€15,000/year), College (€40,000/year), and University (€75,000/year). Contact **architect@daimones.ai** for inquiries.
+Yes! Universities and research institutions can deploy daïmōnes as a sovereign, self-hosted instance. Institutional deployments provide full data control and compliance (FERPA, GDPR). Contact **architect@daimones.ai** for inquiries.
 
 ---
 
@@ -86,11 +86,10 @@ Yes! Universities and research institutions can license "Lyceum in a Box" for se
 ### The platform isn't loading. What should I do?
 1. Clear your browser cache (Ctrl+Shift+R / Cmd+Shift+R)
 2. Try a different browser
-3. Check our [status page](#) (coming soon)
-4. Report the issue using our [Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.md)
+3. Report the issue using our [Bug Report Template](../.github/ISSUE_TEMPLATE/bug_report.md)
 
 ### The persona's Greek looks wrong. How do I report it?
-Use our [Aristotle Feedback Template](.github/ISSUE_TEMPLATE/aristotle_feedback.md) and include:
+Use our [Aristotle Feedback Template](../.github/ISSUE_TEMPLATE/aristotle_feedback.md) and include:
 - Your question
 - Aristotle's response
 - What's wrong (accent, breathing, spelling)
@@ -162,13 +161,15 @@ Use our [Discussions](../../discussions) tab for:
 
 | Resource | Description |
 |----------|-------------|
-| [User Guide](USER_GUIDE.md) | How to use DAIMONES |
-| [Contributing Guide](CONTRIBUTING.md) | How to contribute |
-| [Code of Conduct](CODE_OF_CONDUCT.md) | Community guidelines |
+| [Contributing Guide](../CONTRIBUTING.md) | How to contribute |
+| [Code of Conduct](../CODE_OF_CONDUCT.md) | Community guidelines |
 | [Labels Guide](LABELS_GUIDE.md) | Issue organization |
+| [Architecture](architecture.md) | System overview and tech stack |
+| [Deployment Guide](deployment.md) | How to deploy your own instance |
+| [API Reference](api.md) | REST API documentation |
 
 ---
 
 **Have a question not answered here?** [Start a discussion](../../discussions) or [create an issue](../../issues/new/choose)!
 
-*Last Updated:* April 30, 2026
+*Last Updated:* June 12, 2026

@@ -14,7 +14,7 @@ We take the security of daïmōnes and its community very seriously. Currently, 
 **DO NOT report security vulnerabilities through public GitHub issues.**
 
 If you discover a potential security vulnerability in daïmōnes, please report it immediately by emailing us at:
-**support@daimones.ai**
+**architect@daimones.ai**
 
 Please include the following information in your report:
 - Type of vulnerability (e.g., XSS, SQLi, Prompt Injection).

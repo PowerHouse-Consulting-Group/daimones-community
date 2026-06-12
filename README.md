@@ -38,7 +38,7 @@ Join the community conversation about AI, philosophy, and the future of digital 
 ### For New Users
 1. **Try daïmōnes:** Visit [daimones.ai](https://daimones.ai)
 2. **Read the FAQ:** [Frequently Asked Questions](docs/FAQ.md)
-3. **User Guide:** [How to use daïmōnes](docs/USER_GUIDE.md)
+3. **Documentation:** [Architecture, Deployment, API](docs/README.md)
 
 ### For Contributors
 1. **Read This First:** [Contributing Guide](CONTRIBUTING.md)
@@ -57,10 +57,12 @@ Join the community conversation about AI, philosophy, and the future of digital 
 | Document | Description |
 |----------|-------------|
 | [**FAQ**](docs/FAQ.md) | Frequently asked questions |
+| [**Architecture**](docs/architecture.md) | System overview, tech stack, data flow |
+| [**Deployment**](docs/deployment.md) | Docker, bare metal, air-gapped setup |
+| [**API Reference**](docs/api.md) | REST endpoints, auth, SDK examples |
 | [**Contributing Guide**](CONTRIBUTING.md) | How to contribute |
 | [**Code of Conduct**](CODE_OF_CONDUCT.md) | Community guidelines |
 | [**Labels Guide**](docs/LABELS_GUIDE.md) | Understanding issue labels |
-| [**User Guide**](docs/USER_GUIDE.md) | Platform usage guide |
 
 ---
 
