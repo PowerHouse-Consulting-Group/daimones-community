@@ -1,6 +1,7 @@
 # MidJourney Guidelines — Academic & Institutions Presentation Deck
 
-**Purpose:** Generate slide visuals for B2B institutional outreach deck  
+**Purpose:** Generate slide BACKGROUND IMAGES for B2B institutional outreach deck  
+**⚠️ IMPORTANT:** This file generates background images ONLY. For slide text content (headlines, body, bullet points, speaker notes), see **`academic-deck-slide-content.md`** in this same directory.  
 **Brand Aesthetic:** Ancient Matte Stone, gold accents, Ancient Greek Temple - Cyberpunk  
 **Tone:** Scholarly, rigorous, authoritative (NOT marketing-speak, NOT startup hype)
 
