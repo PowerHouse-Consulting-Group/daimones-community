@@ -266,17 +266,18 @@
 │  │seats      │seats      │seats      │           │      │
 │  ├───────────┼───────────┼───────────┼───────────┤      │
 │  │Self-hosted│+ 1 Custom │+ Unlimited│+ Full     │      │
-│  │Docker node│  Persona  │  Personas │  codebase │      │
-│  │3 Core     │  Model    │  Custom   │  ownership│      │
-│  │Personas   │LMS API    │  RAG      │Unlimited  │      │
-│  │Admin      │Priority   │  ingestion│  deploy   │      │
-│  │dashboard  │  support  │Dedicated  │  rights   │      │
-│  │Email      │           │  account  │40h know-  │      │
-│  │  support  │           │  manager  │  ledge    │      │
+│  │Docker node│  Persona  │  Personas │  source   │      │
+│  │3 Core     │  Model    │  Custom   │  access   │      │
+│  │Personas   │LMS API    │  RAG      │  (license)│      │
+│  │Admin      │Priority   │  ingestion│Unlimited  │      │
+│  │dashboard  │  support  │Dedicated  │  internal │      │
+│  │Email      │           │  account  │  deploy   │      │
+│  │  support  │           │  manager  │40h know-  │      │
+│  │           │           │           │  ledge    │      │
 │  │           │           │           │  transfer │      │
 │  ├───────────┼───────────┼───────────┼───────────┤      │
-│  │ €15K/yr   │ €40K/yr   │ €75K/yr   │ €225K+   │      │
-│  │           │           │           │ one-time  │      │
+│  │ €15K/yr   │ €40K/yr   │ €75K/yr   │ €225K    │      │
+│  │           │           │           │+€40K/yr   │      │
 │  └───────────┴───────────┴───────────┴───────────┘      │
 │                                                         │
 │  All tiers: self-hosted, zero data egress,              │
@@ -285,7 +286,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-**Speaker Notes:** *"Four tiers. Department for small departments — 50 to 200 seats, self-hosted Docker node, three core personas, €15K/year. College for mid-size institutions — up to 1,000 seats, one custom persona model, LMS integration API, €40K/year. University for full campus deployment — unlimited seats, unlimited custom personas, custom RAG ingestion, dedicated account manager, €75K/year. Enterprise for institutions that want full ownership — complete codebase, unlimited deployment rights, 40-hour knowledge transfer, €225K+ one-time. All tiers are self-hosted. Your infrastructure, your data."*
+**Speaker Notes:** *"Four tiers. Department for small departments — 50 to 200 seats, self-hosted Docker node, three core personas, €15K/year. College for mid-size institutions — up to 1,000 seats, one custom persona model, LMS integration API, €40K/year. University for full campus deployment — unlimited seats, unlimited custom personas, custom RAG ingestion, dedicated account manager, €75K/year. Enterprise for institutions that want maximum control — full source access under license, unlimited internal deployment, 40-hour knowledge transfer, €225K setup plus €40K per year maintenance contract. All tiers are self-hosted. Your infrastructure, your data. IP remains with daïmōnes; you get a perpetual license to use and modify internally."*
 
 ---
 
