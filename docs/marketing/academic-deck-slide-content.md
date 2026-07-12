@@ -377,9 +377,76 @@
 
 1. **Generate backgrounds:** Use the prompts in `academic-deck-midjourney-guidelines.md` to generate 10 slide backgrounds (Midjourney v7, --ar 16:9, --style raw)
 2. **Import into presentation tool:** Keynote, PowerPoint, or Figma
-3. **Overlay text:** Copy the text content from this document onto each slide
-4. **Apply typography:** Cinzel Bold for headings, Inter for body, Noto Serif for Greek text
-5. **Export as PDF:** For distribution to institutions
+3. **Add text-safe overlay:** Place a semi-transparent rectangle between the background image and text (see **Text Overlay Setup** below)
+4. **Overlay text:** Copy the text content from this document onto each slide
+5. **Apply typography:** Cinzel Bold for headings, Inter for body, Noto Serif for Greek text
+6. **Export as PDF:** For distribution to institutions
+
+---
+
+## Text Overlay Setup
+
+**Why this matters:** MJ-generated backgrounds have natural lighting variations — golden highlights kill white text, deep shadows kill dark text, midtones kill both. A semi-transparent overlay ensures readability while preserving the atmospheric quality of the background.
+
+### Overlay Specifications
+
+**For dark background slides (charcoal/slate backgrounds):**
+- **Shape:** Full-bleed rectangle (covers entire slide) OR text-zone rectangle (covers only where text sits)
+- **Fill color:** Black (#000000)
+- **Opacity:** 65-70%
+- **Position:** Behind text, above background image
+
+**For light background slides (ivory/cream backgrounds):**
+- **Shape:** Full-bleed rectangle OR text-zone rectangle
+- **Fill color:** White (#FFFFFF)
+- **Opacity:** 65-70%
+- **Position:** Behind text, above background image
+
+### Tool-Specific Instructions
+
+**Keynote:**
+1. Insert MJ background image (full slide)
+2. Insert → Shape → Rectangle → drag to full slide
+3. Format → Style → Fill: Black or White → Opacity: 65%
+4. Send to back (Arrange → Send to Back)
+5. Add text boxes on top
+
+**PowerPoint:**
+1. Insert MJ background image (full slide)
+2. Insert → Shapes → Rectangle → drag to full slide
+3. Format → Shape Fill: Black or White
+4. Format → Shape Fill → More Fill Colors → Transparency: 30-35%
+5. Right-click → Send to Back
+6. Add text boxes on top
+
+**Figma:**
+1. Place MJ background image (frame fill)
+2. Add rectangle (F) → full frame size
+3. Fill: Black or White → Opacity: 65%
+4. Move rectangle layer below text, above image
+5. Add text layers on top
+
+### Slide-by-Slide Overlay Guide
+
+| Slide | Background Tone | Overlay Color | Opacity | Notes |
+|:-----:|:---------------:|:-------------:|:-------:|:------|
+| 1 | Dark (charcoal sky) | Black | 65% | Title slide — text on right |
+| 2 | Dark (library shadows) | Black | 70% | Problem slide — heavy text |
+| 3 | Medium (golden light) | Black | 60% | Warm tones — lighter overlay |
+| 4 | Dark (charcoal surface) | Black | 65% | Architecture diagram |
+| 5 | Light (ivory gradient) | White | 65% | Benchmark data |
+| 6 | Medium (warm library) | Black | 60% | Use case — three columns |
+| 7 | Dark (archive vault) | Black | 70% | Compliance — heavy text |
+| 8 | Dark (charcoal gradient) | Black | 65% | Pricing table — 90% text |
+| 9 | Medium (golden hour) | Black | 60% | Testimonials — lighter overlay |
+| 10 | Medium (golden hour) | Black | 60% | CTA — centered text |
+
+### Pro Tips
+
+- **Test readability:** Print one slide in grayscale. If you can't read the text clearly, increase overlay opacity by 5-10%.
+- **Consistency:** Use the same overlay opacity across all dark slides (65%) and all light slides (65%) for visual coherence.
+- **Text zones only:** If you want the background to show through more, use a rectangle that only covers the text area (not full bleed). Keep 2-inch margins from slide edges.
+- **Drop shadows:** Add subtle drop shadows to text (2px blur, 30% opacity) for extra contrast boost.
 
 **Typography Reference:**
 - Headings: Cinzel Bold (gold #D4AF37)
