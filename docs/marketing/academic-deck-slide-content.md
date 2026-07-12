@@ -259,19 +259,25 @@
 │  INSTITUTIONAL LICENSING                                │
 │  ─────────────────────                                  │
 │                                                         │
-│  ┌──────────────┬──────────────┬──────────────┐         │
-│  │  Lyceum      │  Academy     │  Archon      │         │
-│  ├──────────────┼──────────────┼──────────────┤         │
-│  │ Small dept.  │ Mid-size     │ University-  │         │
-│  │              │ institution  │ wide         │         │
-│  ├──────────────┼──────────────┼──────────────┤         │
-│  │ 1 server     │ 3 servers    │ Unlimited    │         │
-│  │ 50 users     │ 200 users    │ users        │         │
-│  │ Basic model  │ Fine-tuned   │ Custom model │         │
-│  │ Email supp.  │ Priority     │ 24/7 SLA     │         │
-│  ├──────────────┼──────────────┼──────────────┤         │
-│  │ €15K/yr      │ €45K/yr      │ €225K+/yr    │         │
-│  └──────────────┴──────────────┴──────────────┘         │
+│  ┌───────────┬───────────┬───────────┬───────────┐      │
+│  │Department │  College  │University │Enterprise │      │
+│  ├───────────┼───────────┼───────────┼───────────┤      │
+│  │50-200     │200-1,000  │Unlimited  │Commercial │      │
+│  │seats      │seats      │seats      │           │      │
+│  ├───────────┼───────────┼───────────┼───────────┤      │
+│  │Self-hosted│+ 1 Custom │+ Unlimited│+ Full     │      │
+│  │Docker node│  Persona  │  Personas │  codebase │      │
+│  │3 Core     │  Model    │  Custom   │  ownership│      │
+│  │Personas   │LMS API    │  RAG      │Unlimited  │      │
+│  │Admin      │Priority   │  ingestion│  deploy   │      │
+│  │dashboard  │  support  │Dedicated  │  rights   │      │
+│  │Email      │           │  account  │40h know-  │      │
+│  │  support  │           │  manager  │  ledge    │      │
+│  │           │           │           │  transfer │      │
+│  ├───────────┼───────────┼───────────┼───────────┤      │
+│  │ €15K/yr   │ €40K/yr   │ €75K/yr   │ €225K+   │      │
+│  │           │           │           │ one-time  │      │
+│  └───────────┴───────────┴───────────┴───────────┘      │
 │                                                         │
 │  All tiers: self-hosted, zero data egress,              │
 │  full source access, academic discount available.       │
@@ -279,7 +285,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-**Speaker Notes:** *"Three tiers. Lyceum for small departments — one server, 50 users, €15K/year. Academy for mid-size institutions — three servers, 200 users, fine-tuned model, €45K/year. Archon for university-wide deployment — unlimited users, custom model, 24/7 SLA. All tiers are self-hosted. You own the infrastructure."*
+**Speaker Notes:** *"Four tiers. Department for small departments — 50 to 200 seats, self-hosted Docker node, three core personas, €15K/year. College for mid-size institutions — up to 1,000 seats, one custom persona model, LMS integration API, €40K/year. University for full campus deployment — unlimited seats, unlimited custom personas, custom RAG ingestion, dedicated account manager, €75K/year. Enterprise for institutions that want full ownership — complete codebase, unlimited deployment rights, 40-hour knowledge transfer, €225K+ one-time. All tiers are self-hosted. Your infrastructure, your data."*
 
 ---
 
