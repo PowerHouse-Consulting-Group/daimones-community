@@ -31,7 +31,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-**Typography:** Title in Cinzel Bold (gold #D4AF37), subtitle in Inter Light (white), name in Inter Regular (cyan #00d2ff)
+**Typography:** Title in Cinzel Bold (gold #D4AF37), subtitle in Inter Light (white), name in Inter Regular (warm bronze #8B7355)
 
 **Speaker Notes:** *Introduce yourself. One sentence: "I'm Vasilis, I built daïmōnes to solve a problem that every philosophy department will face within the next three years."*
 
@@ -384,7 +384,7 @@
 **Typography Reference:**
 - Headings: Cinzel Bold (gold #D4AF37)
 - Body: Inter Regular (white #FFFFFF or dark #2C3E50)
-- Accent: Inter Light (cyan #00d2ff)
+- Accent: Inter Light (warm bronze #8B7355)
 - Greek text: Noto Serif (with polytonic support)
 
 ---
