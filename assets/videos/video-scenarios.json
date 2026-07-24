@@ -1,0 +1,148 @@
+{
+  "scenarios": [
+    {
+      "id": 1,
+      "article_slug": "the-corpus-problem",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/THE%20CORPUS%20PROBLEM.png",
+      "prompt": "Ancient Greek marble tablets slowly drift apart, revealing gaps between fragments. Camera pulls back to show the incomplete corpus. Cinematic lighting, shallow depth of field.",
+      "hashtags": [
+        "#corpus",
+        "#aristotle",
+        "#classics",
+        "#ai",
+        "#philology"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-01-corpus-problem.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-23"
+    },
+    {
+      "id": 2,
+      "article_slug": "the-alignment-tax",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/THE%20ALIGNMENT%20TAX.png",
+      "prompt": "Corporate building facade with glowing 'SAFETY' sign. Camera reveals hidden costs: chains, locks, surveillance cameras emerging from shadows. Slow zoom out to show the full tax.",
+      "hashtags": [
+        "#alignment",
+        "#ai",
+        "#corporate",
+        "#sovereignty",
+        "#freedom"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-02-alignment-tax.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-23"
+    },
+    {
+      "id": 3,
+      "article_slug": "sovereign-vs-corporate",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/SOVEREIGN%20vs%20CORPORATE.png",
+      "prompt": "Two paths diver: left path walled and gated (corporate), right path open to horizon (sovereign). Camera slowly pushes toward the open path. Golden hour lighting.",
+      "hashtags": [
+        "#sovereignty",
+        "#ai",
+        "#freedom",
+        "#infrastructure",
+        "#control"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-03.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-23"
+    },
+    {
+      "id": 4,
+      "article_slug": "philosophical-depth",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/PHILOSOPHICAL%20DEPTH.png",
+      "prompt": "Layers of ancient scrolls stack vertically, each layer revealing deeper text. Camera descends through the layers. Dust particles catch light. Contemplative atmosphere.",
+      "hashtags": [
+        "#philosophy",
+        "#depth",
+        "#wisdom",
+        "#tradition",
+        "#thinking"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-04.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-23"
+    },
+    {
+      "id": 5,
+      "article_slug": "alignment-tax-breakdown",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/THE%20ALIGNMENT%20TAX%20BREAKDOWN.png",
+      "prompt": "Technical diagrams animate: flowcharts show data pathways being restricted. Nodes light up red as filters engage. Camera orbits around the system showing the full breakdown.",
+      "hashtags": [
+        "#alignment",
+        "#technical",
+        "#architecture",
+        "#transparency",
+        "#ai"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-05.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-23"
+    },
+    {
+      "id": 6,
+      "article_slug": "akrasia-and-phronesis",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/PHILOSOPHICAL%20DEPTH.png",
+      "prompt": "Figure at crossroads: one path lit (easy), one dark (virtuous). Figure struggles toward the dark path against gravitational pull. Cinematic, dramatic lighting.",
+      "hashtags": [
+        "#akrasia",
+        "#phronesis",
+        "#virtue",
+        "#ethics",
+        "#struggle"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-06-akrasia-and-phronesis.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-24"
+    },
+    {
+      "id": 7,
+      "article_slug": "refusal-rates",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/REFUSAL%20RATES.png",
+      "prompt": "Bar chart animates: bars grow and shrink showing refusal rates. Camera zooms into the highest bar, revealing it's a wall blocking inquiry. Data visualization style.",
+      "hashtags": [
+        "#censorship",
+        "#refusal",
+        "#ai",
+        "#inquiry",
+        "#transparency"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-07-refusal-rates.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-24"
+    },
+    {
+      "id": 8,
+      "article_slug": "reasoning-by-domain",
+      "type": "I2V",
+      "source_media": "https://raw.githubusercontent.com/PowerHouse-Consulting-Group/daimones-community/main/assets/infographics/REASONING%20BY%20DOMAIN.png",
+      "prompt": "Domain labels (PHILOSOPHY, SCIENCE, ETHICS) float in space. Camera shows reasoning pathways connecting within domains but failing across them. Network visualization style.",
+      "hashtags": [
+        "#reasoning",
+        "#domains",
+        "#epistemology",
+        "#specialization",
+        "#ai"
+      ],
+      "status": "generated",
+      "video_url": "/videos/scenario-08-reasoning-by-domain.mp4",
+      "broadcast_date": null,
+      "generated_date": "2026-07-24"
+    }
+  ]
+}
