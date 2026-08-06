@@ -35,7 +35,7 @@ Backers get lifetime access, early personas, and a direct role in shaping the pl
 |------|--------------|
 | **$5,000** | Minimum viable — corpus expansion + voice prototype |
 | **$7,500** | Stretch — PWA app + improved mobile experience |
-| **$10,000** | Full goal — all above + dedicated GPU time for voice inference |
+| **$10,000** | Full goal — all above + dedicated GPU time for voice inference + supporter wall |
 
 ### Budget Breakdown
 
@@ -60,8 +60,8 @@ Backers get lifetime access, early personas, and a direct role in shaping the pl
 | **Disciple Early** | $49 | 100 | Lifetime Disciple access (unlimited dialogue, PWA, voice when ready) |
 | **Archon Early** | $99 | 50 | Lifetime Archon access (citations, lecture mode, priority queue, founder badge) |
 | **Oracle Circle** | $299 | 20 | Lifetime Archon + name in corpus credits + early voice beta access |
-| **Philosopher Patron** | $999 | 5 | Lifetime Archon + custom philosopher persona request + 1h consultation with Vasilis |
-| **Institutional Backer** | $2,500 | 3 | 1-year department license + custom RAG corpus + 4h consulting |
+| **Sovereign Supporter** | $499 | 10 | Lifetime Archon + 1h consultation with Vasilis + name on Supporter Wall |
+| **Sovereign Patron** | $1,499 | 3 | Lifetime Archon + quarterly roadmap input + 3h consulting + Supporter Wall top placement |
 
 ### Notes
 - Lifetime means lifetime of the daïmōnes service.
