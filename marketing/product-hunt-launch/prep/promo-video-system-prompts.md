@@ -6,7 +6,7 @@ Delivery format: Generate 4 separate 15s clips to be stitched in post-production
 Aspect ratio master: 16:9 landscape (horizontal)
 Vertical cut: 9:16 center-crop safe framing notes included per clip
 Visual style: Dark cinematic — cyberpunk + ancient temple aesthetic
-On-screen text: Minimal, bold sans-serif, neon-cyan on black, Greek terms in polytonic
+On-screen text: Minimal, bold sans-serif, neon-cyan on black. Any Greek-language concepts should be represented as text-free symbolic motifs (columns, scrolls, olive branches, laurel wreaths) — do not render Greek letters in generated imagery.
 Color palette: black, deep blue, cyan neon, warm marble highlights
 Camera style: slow, deliberate, no handheld shake
 Transitions: hard cut or subtle light flash between clips — no slow fades (easier stitching)
@@ -46,7 +46,7 @@ Center the corridor of floating screens. Keep text readable in the middle of fra
 ## Clip 3 — 00:30–00:45 | "The Product"
 
 ### Visual System Prompt (for HappyHorse / image-to-video)
-The temple transforms. Cyan neon lines trace Greek columns rising from the floor. A figure made of starlight and geometry — the Aristotle persona — materializes at the plinth. Cut to a stylized UI chat interface floating in 3D space: a user types "Is moral relativism defensible?" and daïmōnes responds with a direct, structured answer, citing Aristotle. Camera orbits the interface slowly. Polytonic Greek terms glow faintly. Mood: powerful, authoritative, uncensored. Sound effects: UI feedback tones, ambient lift.
+The temple transforms. Cyan neon lines trace Greek columns rising from the floor. A figure made of starlight and geometry — the Aristotle persona — materializes at the plinth. Cut to a stylized UI chat interface floating in 3D space: a user types "Is moral relativism defensible?" and daïmōnes responds with a direct, structured answer, citing Aristotle. Camera orbits the interface slowly. Ancient Greek scroll and column motifs glow faintly in the background as text-free symbolic elements. Mood: powerful, authoritative, uncensored. Sound effects: UI feedback tones, ambient lift.
 
 ### 9:16 Vertical Notes
 Place the Aristotle figure and the floating UI in the vertical center. For the UI chat shot, frame the chat bubble dead center; the 9:16 crop should show only the question and the first few lines of the answer.
