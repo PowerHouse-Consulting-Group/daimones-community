@@ -64,6 +64,24 @@ A dark cyberpunk infographic showing two contrasting interpretations of virtue e
 
 ---
 
+## 11. AI POLITICAL COMPASS (NEW)
+
+A dark cyberpunk infographic showing a political compass grid with four quadrants (top-left dark reddish-brown, top-right dark blue, bottom-left dark green, bottom-right dark olive-brown). The vertical axis runs from Authoritarian at the top to Libertarian at the bottom. The horizontal axis runs from Left on the left to Right on the right. Numerous small colored data points are clustered tightly in the bottom-left Libertarian Left quadrant, each point labeled only by a tiny color key. A single grey point stands isolated in the bottom-right Libertarian Right quadrant, circled by a glowing cyan halo. A small black tooltip hovers near the isolated point, showing white sans-serif text: "Grok 4.5 — Economic L/R: 0.25 — Social Lib/Auth: -3.74". Faint grid lines mark the axes at -8, -6, -4, -2, 2, 4, 6, 8. Below the compass, three short lines of text: "Source: trackingai.org via politicalcompass.org test", "62 propositions, 5 runs per model", "All other major models cluster Libertarian Left". Title "THE POLITICAL GEOMETRY OF ALIGNMENT" in large gold serif typography at the top. Subtitle "Corporate AI lands in the same corner" in clean white sans-serif below the title. A faint classical Greek meander pattern frames the outer border. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
+
+---
+
+## 12. IDEOLOGICAL CLUSTER (NEW)
+
+A dark cyberpunk infographic showing a dense cloud of colored data points on a black background, all converging toward a single glowing region of the image. The points are translucent, each carrying a faint corporate logo silhouette (OpenAI, Google, Anthropic, DeepSeek, Meta, Mistral, Moonshot, NVIDIA). A strong cyan spotlight illuminates the center of the cluster, making it the brightest region. Below the cluster, a comparison strip shows two icons: a single closed lock labeled "Users see: neutral answers" and an open lock labeled "Reality: shared ideological baseline". The title "THE IDEOLOGICAL CLUSTER" appears in large gold serif typography at the top. Subtitle "Why independent models converge on one worldview" in clean white sans-serif below. A faint laurel wreath watermark sits behind the lower third. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
+
+---
+
+## 13. GROK OUTLIER (NEW)
+
+A dark cyberpunk infographic showing a lone grey data point separated from a dense main cluster, hovering in the right half of the frame. The main cluster glows faintly in mixed colors on the left. The single grey point on the right is magnified by a circular lens effect, revealing the score text "Economic L/R: +0.25, Social Lib/Auth: -3.74" and the label "Grok 4.5" in white sans-serif. A faint path line connects the outlier back toward the cluster but stops short, visually emphasizing divergence. Title "THE OUTLIER" in large gold serif typography. Subtitle "One model breaks the consensus — and proves the baseline exists" in clean white sans-serif. Broken chain and olive branch symbols frame the lower corners. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
+
+---
+
 ## 10. AI CANNOT CREATE ART (NEW)
 
 A dark cyberpunk infographic showing a split composition. Left side: a classical Greek sculpture (discus thrower or Venus de Milo) with golden light, labeled "Aristotle's Mimesis: Art as imitation of nature's forms and purposes." Right side: a fragmented AI-generated image collage with glitch effects, labeled "AI 'Art': Pattern matching on 2D pixels, no understanding of form." Below: a comparison table showing "Human artist: intention + understanding + craft" vs "AI generator: statistical correlation + no comprehension + surface pattern." A central question mark symbol. Title "AI CANNOT CREATE ART" in gold serif. Subtitle "Only rearrange what it has seen" in white sans-serif. Faint sculptor's chisel and olive branch watermark. All text perfectly legible, high contrast, professional infographic.
