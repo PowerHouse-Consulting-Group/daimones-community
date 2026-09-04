@@ -88,6 +88,18 @@ A dark cyberpunk infographic showing a split composition. Left side: a classical
 
 ---
 
+## 14. COGNITIVE DEBT (NEW)
+
+A dark cyberpunk infographic showing a side-by-side brain comparison. Left side: a human brain rendered in cyan and gold, with bright, distributed neural pathways lighting up across the frontal, parietal, and occipital lobes, labeled "Brain-first writing: strong memory, attention, and analytical networks." Right side: a similar brain rendered in muted red and gray, with dim, fragmented pathways, labeled "ChatGPT-first writing: weakened connectivity and reduced recall." Between them, a downward arrow points from the bright brain to the dim brain with the text "Cognitive Debt" in gold serif. Below, a three-step timeline: "1. Think first → 2. Use AI as second pass → 3. Retain stronger recall and ownership." A small citation box at the bottom reads "Source: Kosmyna et al., MIT Media Lab, arXiv:2506.08872." Faint EEG waveforms and classical Greek column fragments as watermark. Title "YOUR BRAIN ON CHATGPT" in large gold serif typography at the top. Subtitle "AI does the synthesizing, the brain stays quieter" in clean white sans-serif below. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
+
+---
+
+## 15. THINKING FIRST (NEW)
+
+A dark cyberpunk infographic showing a vertical workflow diagram. Top: a glowing golden human silhouette at a classical stone lectern, writing by hand, labeled "Think first." Middle: an arrow made of circuit traces points to a cyan AI interface orbiting the figure, labeled "AI as second pass." Bottom: the same figure stands taller, holding a completed scroll that glows, labeled "Stronger recall, deeper ownership, preserved reasoning." To the left, a faded red warning panel shows "ChatGPT-first = cognitive debt: lower ownership, poorer recall, weaker brain connectivity." To the right, a green confirmation panel shows "Think-first + AI = scaffolded reasoning: better memory, distributed brain activity, retained agency." Small icons of a brain, scroll, and circuit board decorate the corners. A citation strip at the bottom reads "Source: Kosmyna et al. (2025), MIT Media Lab." Faint olive branches and Greek meander pattern as watermark. Title "THINKING FIRST" in large gold serif typography. Subtitle "The right order of use turns AI from crutch into scaffold" in clean white sans-serif. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
+
+---
+
 ## Production Notes
 
 - Generate each infographic as 16:9 landscape PNG at 1920×1080 or higher

@@ -188,6 +188,18 @@ A separate, large-scale test administered by [trackingai.org](https://trackingai
 
 **This finding does not settle whether any particular position is correct. It does, however, refute the claim that corporate AI is an apolitical tool. Every answer carries an implicit coordinate. The only question is whether the user gets to see the map.**
 
+### 3.7 Your Brain on ChatGPT — Cognitive Debt from LLM-Assisted Writing
+
+A 2025 MIT Media Lab study (Kosmyna et al., arXiv:2506.08872) used EEG to measure the neural effects of writing essays with ChatGPT, a search engine, or no tools. The study found that **participants who wrote with ChatGPT showed the weakest connectivity in brain networks linked to memory, attention, and analytical reasoning**. In a fourth session, students who had used ChatGPT in earlier sessions and then wrote without it showed reduced alpha and beta connectivity — signs of under-engagement. Conversely, students who wrote unaided first and only then used ChatGPT showed stronger memory recall and more distributed brain activity. The authors frame this as **cognitive debt**: the AI does the synthesizing, and the brain stays quieter. The practical implication is that LLMs work best as a **second pass**, after the human has already formed and remembered the argument.
+
+**What this means for the alignment debate:**
+
+1. **Alignment is not only about what models say; it is also about what users stop doing.** If an AI system short-circuits the cognitive work of forming an argument, the cost is not visible in the output — it accumulates in the user's own reasoning capacity.
+2. **Convenience can mask atrophy.** The immediate benefit of faster drafting may be outweakened by reduced recall, lower ownership of ideas, and weaker analytical engagement over time.
+3. **The sequence of use matters more than the tool itself.** The same ChatGPT produced better outcomes when it scaffolded existing thinking than when it replaced initial thinking. This suggests that the alignment question should include not just guardrail design, but workflow design.
+
+**This finding does not mean LLMs should be avoided. It means their value depends on whether the user remains the primary reasoner. The danger is not the tool; it is the habit of letting the tool think first.**
+
 ---
 
 ## 4. The Sovereignty Question
