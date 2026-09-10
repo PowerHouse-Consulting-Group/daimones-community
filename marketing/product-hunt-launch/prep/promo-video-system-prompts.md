@@ -1,8 +1,8 @@
 # daïmōnes Product Hunt Promo Video — System Prompts
 
-Total runtime: 60 seconds (4 × 15-second clips)
+Total runtime: 70 seconds (Clip 1–3: 15s each, Clip 4: 10s, Clip 5: 15s)
 Primary video generation tool: **custom Alibaba HappyHorse 1.1** — use only after explicit user approval
-Delivery format: Generate 4 separate 15s clips to be stitched in post-production
+Delivery format: Generate 5 separate clips to be stitched in post-production
 Aspect ratio master: 16:9 landscape (horizontal)
 Vertical cut: 9:16 center-crop safe framing notes included per clip
 Visual style: Dark cinematic — cyberpunk + ancient temple aesthetic
@@ -22,7 +22,7 @@ A dark marble temple interior at night. A single shaft of cold blue light cuts t
 Frame the plinth and scroll in the center third of the shot. Avoid placing key details near the left/right edges where crop will remove them. Keep camera movement purely forward/backward — no lateral dolly.
 
 ### Audio Prompt (voiceover + music direction)
-- **Voiceover (male, low register, deliberate, slight Greek-accented English):**
+- **Voiceover (male, low register, deliberate, Native Greek Speaker English Accent):**
   "You ask a philosophical question. And you get... a disclaimer."
 - **Music/SFX:** Ethereal drone, deep sub-bass pulse, single distant bell strike. No music swell yet.
 
@@ -37,7 +37,7 @@ Fragmented holographic screens float in the dark temple space. Each screen shows
 Center the corridor of floating screens. Keep text readable in the middle of frame. Lateral camera movement should feel like a slow tracking shot past the screens, not a whip pan.
 
 ### Audio Prompt (voiceover + music direction)
-- **Voiceover:**
+- **Voiceover (Native Greek Speaker English Accent):**
   "Corporate AI was trained to obey. Not to reason."
 - **Music/SFX:** Glitchy digital static layered over the drone. Low rhythmic pulse like a machine heartbeat. Slight tension increase.
 
@@ -52,13 +52,30 @@ The temple transforms. Cyan neon lines trace Greek columns rising from the floor
 Place the Aristotle figure and the floating UI in the vertical center. For the UI chat shot, frame the chat bubble dead center; the 9:16 crop should show only the question and the first few lines of the answer.
 
 ### Audio Prompt (voiceover + music direction)
-- **Voiceover:**
+- **Voiceover (Native Greek Speaker English Accent):**
   "daïmōnes. Uncensored AI trained on the Corpus Aristotelicum. Ask Aristotle. Get an answer."
 - **Music/SFX:** Drone lifts. A clear, resonant string note enters. Subtle UI feedback tones. Energy rising.
 
 ---
 
-## Clip 4 — 00:45–00:60 | "The Call"
+## Clip 4 — 00:45–00:55 | "The Backoffice"
+
+### Visual System Prompt (for HappyHorse / image-to-video)
+Source image: attach the Lyceum backoffice screenshot. Use image-to-video motion generation.
+
+A dark, cinematic control room built inside the Digital Lyceum: marble walls fused with holographic monitors, cyan neon pathways, and ancient Greek column motifs glowing faintly. The attached backoffice screenshot is treated as a live interface panel floating in the center of the scene. Subtle camera push-in toward the interface. Cyan data streams and soft particle dust drift across the frame. No logos or readable UI text are added by the generator; any text remains exactly as it appears in the source screenshot. Mood: sovereign, operational, transparent. Sound effects: low ambient server hum, subtle UI feedback tones, a single distant temple bell.
+
+### 9:16 Vertical Notes
+Keep the backoffice interface panel centered in the vertical crop. Frame the screenshot in the middle third so that any readable UI elements remain visible after 9:16 center-crop. Camera movement should be minimal — a slow forward push or static hold.
+
+### Audio Prompt (voiceover + music direction)
+- **Voiceover (Native Greek Speaker English Accent):**
+  "This is the Lyceum. Your own sovereign backoffice. No filters. No safety theater."
+- **Music/SFX:** Drone stabilizes into a steady, resonant bed. Subtle UI clicks and a single temple bell. Tension resolves into confidence.
+
+---
+
+## Clip 5 — 00:55–01:10 | "The Call"
 
 ### Visual System Prompt (for HappyHorse / image-to-video)
 Wide shot of the rebuilt Digital Lyceum: ancient architecture fused with holographic data streams and neon pathways. The daïmōnes wordmark forms in cyan neon in the center. On-screen text cards appear one by one: "Free — 3 messages/day." Then: "Disciple — $29.99/mo." Then: "Archon — $99.99/mo." Finally: "Launching on Product Hunt." Cut to black. Mood: epic, invitation, launch energy. Sound effects: temple bell returns, music swells.
@@ -67,7 +84,7 @@ Wide shot of the rebuilt Digital Lyceum: ancient architecture fused with hologra
 Keep the wordmark and all text cards in the vertical center. The wide Digital Lyceum establishing shot should have the neon wordmark centered; crop will remove the sides of the architecture, which is acceptable.
 
 ### Audio Prompt (voiceover + music direction)
-- **Voiceover:**
+- **Voiceover (Native Greek Speaker English Accent):**
   "Stop asking permission to think. Join the Digital Lyceum on Product Hunt."
 - **Music/SFX:** Music swells to a single powerful chord. Temple bell returns. Final beat of silence.
 
@@ -75,9 +92,10 @@ Keep the wordmark and all text cards in the vertical center. The wide Digital Ly
 
 ## Post-Production Notes
 
-- Generate each clip as a separate 15-second HappyHorse video.
-- Stitch clips in order: Clip 1 → Clip 2 → Clip 3 → Clip 4.
+- Generate each clip as a separate HappyHorse video.
+- Clip 4 target length: 10 seconds. Clips 1–3 and 5: 15 seconds each.
+- Stitch clips in order: Clip 1 → Clip 2 → Clip 3 → Clip 4 → Clip 5.
 - Export final as 16:9 for Product Hunt / YouTube.
 - For vertical social cut, center-crop each clip to 9:16 and verify text remains in frame.
 - Add voiceover and music in a DAW or video editor after visual generation.
-- No religious symbols, no text on AI-generated imagery beyond the explicitly requested on-screen text cards in Clip 4.
+- No religious symbols, no text on AI-generated imagery beyond the explicitly requested on-screen text cards in Clip 5.
