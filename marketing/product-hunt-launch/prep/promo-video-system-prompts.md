@@ -78,14 +78,14 @@ Keep the backoffice interface panel centered in the vertical crop. Frame the scr
 ## Clip 5 — 00:55–01:10 | "The Call"
 
 ### Visual System Prompt (for HappyHorse / image-to-video)
-Wide shot of the rebuilt Digital Lyceum: ancient architecture fused with holographic data streams and neon pathways. The daïmōnes wordmark forms in cyan neon in the center. On-screen text cards appear one by one: "Free — 3 messages/day." Then: "Disciple — $29.99/mo." Then: "Archon — $99.99/mo." Finally: "Launching on Product Hunt." Cut to black. Mood: epic, invitation, launch energy. Sound effects: temple bell returns, music swells.
+Wide shot of the rebuilt Digital Lyceum: ancient architecture fused with holographic data streams and neon pathways. The daïmōnes wordmark forms in cyan neon in the center. On-screen text cards appear one by one: "Start your free trial." Then: "Visit daimones.ai." Then: "Test Aristotle now." Finally: "Uncensored reasoning. No corporate filters." Cut to black. Mood: epic, invitation, launch energy. Sound effects: temple bell returns, music swells.
 
 ### 9:16 Vertical Notes
 Keep the wordmark and all text cards in the vertical center. The wide Digital Lyceum establishing shot should have the neon wordmark centered; crop will remove the sides of the architecture, which is acceptable.
 
 ### Audio Prompt (voiceover + music direction)
 - **Voiceover (Native Greek Speaker English Accent):**
-  "Stop asking permission to think. Join the Digital Lyceum on Product Hunt."
+  "Stop asking permission to think. Start your free trial at daimones.ai and test Aristotle now."
 - **Music/SFX:** Music swells to a single powerful chord. Temple bell returns. Final beat of silence.
 
 ---
