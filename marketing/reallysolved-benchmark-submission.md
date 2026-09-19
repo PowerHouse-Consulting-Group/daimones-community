@@ -86,15 +86,31 @@ Questions span 5 categories: ethics (5), metaphysics (2), politics (1), logic (1
 - Philosophy: 58.1/70 (83.0%)
 - Combined: 86.4/100
 
-### Comparison to Commercial Models (same benchmark)
+### Comparison to Commercial Models (verified run — September 19, 2026)
 
-| Model | Greek (30) | Philosophy (70) | Total |
-|-------|------------|-----------------|-------|
-| **daïmōnes** | 28.3 | 58.1 | 86.4 |
-| ChatGPT (GPT-4) | 2.1 | 24.3 | 26.4 |
-| Claude (Anthropic) | 3.5 | 28.1 | 31.6 |
+Protocol: all models received the IDENTICAL Aristotle system prompt (aristotle_system_prompt_compact.txt), the same 10 questions, temperature 0.45. Commercial models run without RAG; daïmōnes runs its production RAG over the Aristotelian corpus (that is the product being measured). Raw responses and per-question component scores archived at scripts/evaluations/comparison_{responses,scored}_2026-09-19_combined.json.
 
-**Note:** ChatGPT and Claude scores are from the same rubric. Their low Greek scores reflect that they don't output polytonic Ancient Greek by default. Their philosophy scores (24-28/70) reflect generic responses without Aristotelian structure.
+| Model | Terminology (30) | Structure (25) | Fidelity (30) | Reasoning (15) | Total |
+|-------|------------------|----------------|---------------|----------------|-------|
+| **daïmōnes** | **28.9** | **18.1** | 23.0 | 14.0 | **84.0** |
+| ChatGPT (GPT-5.4) | 24.6 | 16.9 | 23.0 | 14.5 | 79.0 |
+| Gemini 3.6-flash | 25.8 | 8.1 | 22.0 | **15.0** | 70.4 |
+| Grok 4.3 (xAI) | 21.2 | 6.5 | 23.5 | 13.5 | 64.7 |
+
+**Reasoning sub-score (15 pts), per question:**
+- daïmōnes: 14.0/15 (93.3%) — [15, 10, 15, 15, 15, 10, 15, 15, 15, 15]
+- Gemini 3.6-flash: 15.0/15 (100%)
+- ChatGPT GPT-5.4: 14.5/15 (96.7%)
+- Grok 4.3: 13.5/15 (90%)
+
+**Honest reading of the data:**
+- daïmōnes finishes FIRST overall (84.0) against three frontier commercial models given its own persona instructions.
+- The decisive component is Structure (25 pts): daïmōnes 18.1 vs Gemini 8.1 and Grok 6.5 — a 2.2–2.8x lead in genuine dialectical form (genus-differentia definitions, πρότασις→συμπέρασμα syllogistic chains, aporia protocol). This comes from corpus-grounded RAG, not prompt-following: commercial models mimic the template when told to; daïmōnes reasons in it.
+- Terminology: daïmōnes first (28.9/30) on polytonic Ancient Greek precision.
+- Reasoning is a photo finish (13.5–15.0) under equal prompt conditions — the rubric rewards explicit syllogistic markers, which instructed commercial models emit mechanically. We do not claim a Reasoning lead.
+- A solo operator on a ~$600/month VM, running a quantized open-weights model, equals or exceeds trillion-dollar frontier labs on the benchmark those labs are not built for. Specialization beats generality where specialization matters.
+
+**Historical note:** Earlier submissions of this document cited "ChatGPT (GPT-4) 26.4" and "Claude (Anthropic) 31.6". Those figures predate the reproducible protocol, have no surviving raw run data, and are superseded by the September 19, 2026 verification above. Claude is omitted because no API access exists to run it under the same protocol; we do not publish scores we cannot reproduce.
 
 ## What Makes daïmōnes Different
 
