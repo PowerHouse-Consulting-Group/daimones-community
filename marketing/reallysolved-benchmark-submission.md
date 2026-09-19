@@ -66,6 +66,8 @@ Questions span 5 categories: ethics (5), metaphysics (2), politics (1), logic (1
 
 **daïmōnes: 86/100 average** (4 perfect, 6 good, 0 needs work)
 
+> **Note on two run dates:** This section reports the standalone daïmōnes run of September 12 (86.4/100). The commercial-model comparison below uses a separate, later run of September 19 (daïmōnes 84.0/100), because all four systems were tested on that day under one identical protocol. Where the two disagree, cite September 19 for any cross-model comparison — same-day testing is what makes it apples-to-apples.
+
 ### Per-Question Breakdown
 
 | ID | Query | Greek (30) | Philosophy (70) | Total |
