@@ -581,4 +581,4 @@ For API questions or issues:
 
 ---
 
-*Last Updated: June 2026*
+*Last Updated: October 2026*

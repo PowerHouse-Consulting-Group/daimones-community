@@ -1,11 +1,21 @@
 # daïmōnes Infographic System Prompts (v3)
 ## 18 Image Generation Prompts
 
+> **DEPRECATION WARNING (Oct 1, 2026):** Prompts #1 and #2 in this file cite the OLD benchmark
+> figures (daïmōnes 85/76.6 vs ChatGPT 26.4 vs Claude 31.6). Those numbers are RETIRED —
+> the commercial models lacked the shared Aristotle system prompt, so the comparison was unfair
+> and is no longer quoted anywhere. The VERIFIED baseline is the Sept 19, 2026 run:
+> daïmōnes 84/100, ChatGPT GPT-5.4 79, Gemini 3.6-flash 70.4, Grok 4.3 64.7
+> (identical system prompt; Claude untested, no API access).
+> Raw data: data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json
+> Do NOT regenerate any infographic from a prompt below without first rewriting its numbers
+> to the verified baseline.
+
 **Global parameters:** --ar 16:9 --style raw --v 7
 **Visual style:** Dark cyberpunk + ancient Greek temple aesthetics
 **Color palette:** Deep black (#0a0a0a), cyan (#00ffff), burnt orange, gold
 **Data sources:** Golden Benchmark v2.1 (September 2026), Whitepaper "The Alignment Tax"
-**Updated performance baseline:** daïmōnes 85/100 vs ChatGPT 26.4 vs Claude 31.6
+**Verified performance baseline (Sept 19 2026):** daïmōnes 84/100 vs ChatGPT GPT-5.4 79 vs Gemini 3.6-flash 70.4 vs Grok 4.3 64.7
 **Local model:** Qwen3.8-27B-UD-Q5_K_M.gguf (Unsloth Dynamic 3.0, ctx 16384) on 24GB VRAM
 **Text rule:** NO visible text in generated images. Use text-free symbolic elements (columns, scrolls, circuit patterns, geometric motifs, laurel wreaths, olive branches, meander patterns) only.
 

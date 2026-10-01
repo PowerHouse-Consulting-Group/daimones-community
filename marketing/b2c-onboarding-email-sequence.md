@@ -90,7 +90,7 @@ Ask at https://daimones.ai/dialogue?utm_source=mailchimp&utm_medium=email&utm_ca
 
 — Vasilis
 
-P.S. daïmōnes scores 76.6/100 on our Golden Benchmark of philosophical reasoning. ChatGPT scores 26.4. The numbers are public on GitHub.
+P.S. daïmōnes scores 84/100 on our Golden Benchmark v2.1 of philosophical reasoning, ahead of ChatGPT GPT-5.4 (79), Gemini 3.6-flash (70.4) and Grok 4.3 (64.7) under an identical Aristotle system prompt. The numbers and raw data are public on GitHub.
 ```
 
 **MailChimp notes:**

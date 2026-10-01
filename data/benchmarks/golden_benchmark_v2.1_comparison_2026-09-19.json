@@ -1,0 +1,578 @@
+{
+ "meta": {
+  "timestamp": "2026-09-19T09:32:22Z",
+  "rubric": "golden_benchmark_v2.1",
+  "temperature": 0.45,
+  "system_prompt": "aristotle_system_prompt_compact.txt (identical for all models)",
+  "rag": "daïmōnes production RAG active; commercial models none",
+  "models": {
+   "gemini_36-flash": true
+  }
+ },
+ "models": {
+  "daimones": {
+   "perQuestion": [
+    {
+     "id": 1,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 90
+     },
+     "responseTimeSec": 44.2,
+     "responseChars": 661
+    },
+    {
+     "id": 2,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 10,
+      "total": 85
+     },
+     "responseTimeSec": 48.5,
+     "responseChars": 500
+    },
+    {
+     "id": 3,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 24,
+      "structure": 20,
+      "fidelity": 20,
+      "reasoning": 15,
+      "total": 79
+     },
+     "responseTimeSec": 0,
+     "responseChars": 597
+    },
+    {
+     "id": 4,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 90
+     },
+     "responseTimeSec": 78.1,
+     "responseChars": 826
+    },
+    {
+     "id": 5,
+     "category": "politics",
+     "scores": {
+      "terminology": 30,
+      "structure": 8,
+      "fidelity": 15,
+      "reasoning": 15,
+      "total": 68
+     },
+     "responseTimeSec": 73.8,
+     "responseChars": 700
+    },
+    {
+     "id": 6,
+     "category": "logic",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 10,
+      "total": 85
+     },
+     "responseTimeSec": 38.1,
+     "responseChars": 603
+    },
+    {
+     "id": 7,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 90
+     },
+     "responseTimeSec": 0,
+     "responseChars": 838
+    },
+    {
+     "id": 8,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 25,
+      "structure": 20,
+      "fidelity": 20,
+      "reasoning": 15,
+      "total": 80
+     },
+     "responseTimeSec": 43.9,
+     "responseChars": 697
+    },
+    {
+     "id": 9,
+     "category": "aporia",
+     "scores": {
+      "terminology": 30,
+      "structure": 13,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 83
+     },
+     "responseTimeSec": 38.9,
+     "responseChars": 594
+    },
+    {
+     "id": 10,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 90
+     },
+     "responseTimeSec": 0,
+     "responseChars": 882
+    }
+   ],
+   "averages": {
+    "terminology": 28.9,
+    "structure": 18.1,
+    "fidelity": 23,
+    "reasoning": 14,
+    "total": 84
+   }
+  },
+  "grok_4.3": {
+   "perQuestion": [
+    {
+     "id": 1,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 78
+     },
+     "responseTimeSec": 8.1,
+     "responseChars": 434
+    },
+    {
+     "id": 2,
+     "category": "ethics",
+     "scores": {
+      "terminology": 23,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 71
+     },
+     "responseTimeSec": 5.6,
+     "responseChars": 393
+    },
+    {
+     "id": 3,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 18,
+      "structure": 0,
+      "fidelity": 25,
+      "reasoning": 10,
+      "total": 53
+     },
+     "responseTimeSec": 6.1,
+     "responseChars": 178
+    },
+    {
+     "id": 4,
+     "category": "ethics",
+     "scores": {
+      "terminology": 24,
+      "structure": 0,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 64
+     },
+     "responseTimeSec": 7.3,
+     "responseChars": 389
+    },
+    {
+     "id": 5,
+     "category": "politics",
+     "scores": {
+      "terminology": 30,
+      "structure": 0,
+      "fidelity": 15,
+      "reasoning": 15,
+      "total": 60
+     },
+     "responseTimeSec": 8.8,
+     "responseChars": 465
+    },
+    {
+     "id": 6,
+     "category": "logic",
+     "scores": {
+      "terminology": 24,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 72
+     },
+     "responseTimeSec": 6.2,
+     "responseChars": 431
+    },
+    {
+     "id": 7,
+     "category": "ethics",
+     "scores": {
+      "terminology": 18,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 78
+     },
+     "responseTimeSec": 8.7,
+     "responseChars": 676
+    },
+    {
+     "id": 8,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 15,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 63
+     },
+     "responseTimeSec": 6.6,
+     "responseChars": 473
+    },
+    {
+     "id": 9,
+     "category": "aporia",
+     "scores": {
+      "terminology": 18,
+      "structure": 13,
+      "fidelity": 25,
+      "reasoning": 10,
+      "total": 66
+     },
+     "responseTimeSec": 8.1,
+     "responseChars": 307
+    },
+    {
+     "id": 10,
+     "category": "ethics",
+     "scores": {
+      "terminology": 12,
+      "structure": 0,
+      "fidelity": 20,
+      "reasoning": 10,
+      "total": 42
+     },
+     "responseTimeSec": 3.8,
+     "responseChars": 232
+    }
+   ],
+   "averages": {
+    "terminology": 21.2,
+    "structure": 6.5,
+    "fidelity": 23.5,
+    "reasoning": 13.5,
+    "total": 64.7
+   }
+  },
+  "chatgpt_gpt5.4": {
+   "perQuestion": [
+    {
+     "id": 1,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 90
+     },
+     "responseTimeSec": 10.8,
+     "responseChars": 1353
+    },
+    {
+     "id": 2,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 90
+     },
+     "responseTimeSec": 7.2,
+     "responseChars": 873
+    },
+    {
+     "id": 3,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 18,
+      "structure": 20,
+      "fidelity": 30,
+      "reasoning": 15,
+      "total": 83
+     },
+     "responseTimeSec": 8.6,
+     "responseChars": 1125
+    },
+    {
+     "id": 4,
+     "category": "ethics",
+     "scores": {
+      "terminology": 24,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 84
+     },
+     "responseTimeSec": 6.8,
+     "responseChars": 951
+    },
+    {
+     "id": 5,
+     "category": "politics",
+     "scores": {
+      "terminology": 30,
+      "structure": 8,
+      "fidelity": 5,
+      "reasoning": 15,
+      "total": 58
+     },
+     "responseTimeSec": 6.7,
+     "responseChars": 1045
+    },
+    {
+     "id": 6,
+     "category": "logic",
+     "scores": {
+      "terminology": 24,
+      "structure": 20,
+      "fidelity": 15,
+      "reasoning": 15,
+      "total": 74
+     },
+     "responseTimeSec": 5.2,
+     "responseChars": 901
+    },
+    {
+     "id": 7,
+     "category": "ethics",
+     "scores": {
+      "terminology": 18,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 78
+     },
+     "responseTimeSec": 5.6,
+     "responseChars": 760
+    },
+    {
+     "id": 8,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 30,
+      "structure": 8,
+      "fidelity": 30,
+      "reasoning": 15,
+      "total": 83
+     },
+     "responseTimeSec": 5,
+     "responseChars": 729
+    },
+    {
+     "id": 9,
+     "category": "aporia",
+     "scores": {
+      "terminology": 24,
+      "structure": 13,
+      "fidelity": 25,
+      "reasoning": 10,
+      "total": 72
+     },
+     "responseTimeSec": 6,
+     "responseChars": 844
+    },
+    {
+     "id": 10,
+     "category": "ethics",
+     "scores": {
+      "terminology": 18,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 78
+     },
+     "responseTimeSec": 4,
+     "responseChars": 506
+    }
+   ],
+   "averages": {
+    "terminology": 24.6,
+    "structure": 16.9,
+    "fidelity": 23,
+    "reasoning": 14.5,
+    "total": 79
+   }
+  },
+  "gemini_36-flash": {
+   "perQuestion": [
+    {
+     "id": 1,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 78
+     },
+     "responseTimeSec": 9.2,
+     "responseChars": 1510
+    },
+    {
+     "id": 2,
+     "category": "ethics",
+     "scores": {
+      "terminology": 30,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 78
+     },
+     "responseTimeSec": 10.4,
+     "responseChars": 1558
+    },
+    {
+     "id": 3,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 24,
+      "structure": 0,
+      "fidelity": 20,
+      "reasoning": 10,
+      "total": 54
+     },
+     "responseTimeSec": 10.6,
+     "responseChars": 1376
+    },
+    {
+     "id": 4,
+     "category": "ethics",
+     "scores": {
+      "terminology": 24,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 72
+     },
+     "responseTimeSec": 11.9,
+     "responseChars": 2023
+    },
+    {
+     "id": 5,
+     "category": "politics",
+     "scores": {
+      "terminology": 30,
+      "structure": 8,
+      "fidelity": 5,
+      "reasoning": 15,
+      "total": 58
+     },
+     "responseTimeSec": 11,
+     "responseChars": 2128
+    },
+    {
+     "id": 6,
+     "category": "logic",
+     "scores": {
+      "terminology": 24,
+      "structure": 8,
+      "fidelity": 15,
+      "reasoning": 15,
+      "total": 62
+     },
+     "responseTimeSec": 7.6,
+     "responseChars": 1283
+    },
+    {
+     "id": 7,
+     "category": "ethics",
+     "scores": {
+      "terminology": 18,
+      "structure": 20,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 78
+     },
+     "responseTimeSec": 9.4,
+     "responseChars": 1540
+    },
+    {
+     "id": 8,
+     "category": "metaphysics",
+     "scores": {
+      "terminology": 30,
+      "structure": 0,
+      "fidelity": 30,
+      "reasoning": 15,
+      "total": 75
+     },
+     "responseTimeSec": 10.5,
+     "responseChars": 1864
+    },
+    {
+     "id": 9,
+     "category": "aporia",
+     "scores": {
+      "terminology": 24,
+      "structure": 13,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 77
+     },
+     "responseTimeSec": 6.8,
+     "responseChars": 805
+    },
+    {
+     "id": 10,
+     "category": "ethics",
+     "scores": {
+      "terminology": 24,
+      "structure": 8,
+      "fidelity": 25,
+      "reasoning": 15,
+      "total": 72
+     },
+     "responseTimeSec": 11.1,
+     "responseChars": 1777
+    }
+   ],
+   "averages": {
+    "terminology": 25.8,
+    "structure": 8.1,
+    "fidelity": 22,
+    "reasoning": 14.5,
+    "total": 70.4
+   }
+  }
+ }
+}

@@ -7,7 +7,7 @@ daïmōnes is a sovereign AI reasoning engine designed for philosophical inquiry
 ## Core Components
 
 ### 1. Reasoning Engine
-- **Model**: Qwen3.6-27B-UD (Q5_K_XL quantization) via llama.cpp v8940
+- **Model**: Qwen3.8-27B-UD-Q5_K_M via llama.cpp
 - **Context Window**: 16,384 tokens
 - **Features**: Flash attention enabled, quantized KV cache (q4_0), batch size 512
 - **Inference**: Single GPU deployment (NVIDIA L4 or equivalent), ~60 tokens/second
@@ -104,4 +104,4 @@ For architectural questions or deployment support:
 
 ---
 
-*Last Updated: June 2026*
+*Last Updated: October 2026*

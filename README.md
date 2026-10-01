@@ -1,166 +1,112 @@
-# 🏛️ daïmōnes
+# daïmōnes Community
 
-**AI Philosophical Dialogue Platform**
-*Polytonic Ancient Greek · Philosophical Inquiry · The First Teacher*
+**Sovereign AI for philosophical inquiry — Aristotle as the first persona.**
 
 [![Website](https://img.shields.io/badge/website-daimones.ai-blue)](https://daimones.ai)
+[![Live Demo](https://img.shields.io/badge/demo-HuggingFace_Space-gold)](https://huggingface.co/spaces/thevasilis/daimones)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Community](https://img.shields.io/badge/community-join-orange)](../../discussions)
-
----
-
-## 📜 Welcome to the daïmōnes Community
-
-daïmōnes is an AI-powered philosophical dialogue platform featuring the Great Minds of Antiquity as your guides to wisdom. Engage in deep philosophical inquiry using Polytonic Ancient Greek, Modern Greek, and English.
+[![Community](https://img.shields.io/badge/community-discussions-orange)](../../discussions)
 
 > *"The unexamined life is not worth living."* — Socrates
 
 ---
 
-## 🎯 What You Can Do Here
+## What is daïmōnes?
 
-### 💬 Report Issues
-Found something wrong with Aristotle's responses? Have a bug to report? Use our **Issues** tab above to let us know.
+Most AI assistants are optimized to avoid offense, not to find truth. daïmōnes takes the opposite bet: a self-hosted AI that reasons dialectically, cites primary philosophical sources, and refuses alignment theater.
 
-### ✨ Request Features
-Have an idea to make daïmōnes better? We'd love to hear it! Submit a **Feature Request** in the Issues tab.
+- **Aristotle is the first persona** — he answers in polytonic Ancient Greek first, then in English translation, grounded in the Corpus Aristotelicum.
+- **Sovereign stack** — open-weight model (Qwen3.8-27B, quantized) with retrieval over primary texts, running on a single VM at ~$600/month. No corporate filtering layer.
+- **Verifiable claims** — we publish our benchmark methodology, questions, and raw data in this repo ([data/benchmarks/](data/benchmarks/)) so anyone can reproduce or challenge our numbers.
 
-### 🏛️ Aristotle Feedback
-Help us improve Aristotle's Greek orthography, translations, and philosophical accuracy. Your expertise matters!
+## Try it now
 
-### 💭 Discussions
-Join the community conversation about AI, philosophy, and the future of digital humanities.
+| Where | What |
+|-------|------|
+| **[Live demo (HuggingFace Space)](https://huggingface.co/spaces/thevasilis/daimones)** | Talk to Aristotle in two clicks. No signup. Single-turn, rate-limited. |
+| **[daimones.ai](https://daimones.ai)** | Full platform: saved conversations, free tier (3 messages/day), Disciple ($29.99/mo) and Archon ($99.99/mo) plans. |
+| **[Blog](https://daimones.ai/blog)** | 40+ long-form articles on alignment, sovereign AI, and classical philosophy (EN + EL). |
+| **[Blog mirror](https://daimones.hashnode.dev)** | Same articles on Hashnode. |
+| **[Whitepaper](https://daimones.ai/academic)** | *The Alignment Tax* — academic-facing research summary. |
 
----
+## Golden Benchmark v2.1 (Sept 19, 2026)
 
-## 🚀 Getting Started
+10 questions in Aristotelian philosophy, scored on terminology, structure, fidelity to primary sources, and reasoning. **Every model received the identical Aristotle system prompt** — no vendor gets a home-field advantage.
 
-### For New Users
-1. **Try daïmōnes:** Visit [daimones.ai](https://daimones.ai)
-2. **Read the FAQ:** [Frequently Asked Questions](docs/FAQ.md)
-3. **Documentation:** [Architecture, Deployment, API](docs/README.md)
+| Model | Score |
+|-------|:-----:|
+| **daïmōnes** (Qwen3.8-27B + RAG, $600/mo VM) | **84/100** |
+| ChatGPT (GPT-5.4) | 79 |
+| Gemini 3.6-flash | 70.4 |
+| Grok 4.3 | 64.7 |
+| Claude | not tested (no API access — we don't publish numbers we can't reproduce) |
 
-### For Contributors
-1. **Read This First:** [Contributing Guide](CONTRIBUTING.md)
-2. **Code of Conduct:** [Community Guidelines](CODE_OF_CONDUCT.md)
-3. **Issue Labels:** [Understanding Our Labels](docs/LABELS_GUIDE.md)
+Raw run data: [`data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json`](data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json) · Methodology write-up: [blog post](https://daimones.ai/blog/sovereign-ai-beats-frontier-models-aristotelian-benchmark)
 
-### For Researchers
-- **Academic Licenses:** Contact architect@daimones.ai
-- **Research Tools:** Tagging, export, search (requires subscription)
-- **Citation:** See [FAQ - Citing daïmōnes](docs/FAQ.md)
-
----
-
-## 📚 Documentation
-
-| Document | Description |
-|----------|-------------|
-| [**FAQ**](docs/FAQ.md) | Frequently asked questions |
-| [**Architecture**](docs/architecture.md) | System overview, tech stack, data flow |
-| [**Deployment**](docs/deployment.md) | Docker, bare metal, air-gapped setup |
-| [**API Reference**](docs/api.md) | REST endpoints, auth, SDK examples |
-| [**Contributing Guide**](CONTRIBUTING.md) | How to contribute |
-| [**Code of Conduct**](CODE_OF_CONDUCT.md) | Community guidelines |
-| [**Labels Guide**](docs/LABELS_GUIDE.md) | Understanding issue labels |
+> Note: earlier figures circulating (76.6/85 vs "ChatGPT 26.4 / Claude 31.6") are **deprecated** — those runs lacked the shared system prompt and are not a fair comparison. The table above supersedes them.
 
 ---
 
-## 🏷️ Issue Categories
+## Repository contents
 
-We use labels to organize issues. Here are the main categories:
+| Path | What |
+|------|------|
+| [`docs/`](docs/README.md) | Architecture, API reference, FAQ |
+| [`data/benchmarks/`](data/benchmarks/) | Raw benchmark data (Golden Benchmark v2.1, refusal-rate study) |
+| [`assets/infographics/`](assets/infographics/) | Infographic library (webp/jpg) + generation prompts |
+| [`scripts/evaluations/`](scripts/evaluations/) | Evaluation scripts (refusal-rate studies) |
+| [`marketing/`](marketing/) | Launch assets and public campaign materials |
 
-| Label | Purpose | Template |
-|-------|---------|----------|
-| 🐛 `bug` | Report a bug | [Bug Report](.github/ISSUE_TEMPLATE/bug_report.md) |
-| ✨ `enhancement` | Feature request | [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) |
-| 🏛️ `aristotle` | Aristotle feedback | [Aristotle Feedback](.github/ISSUE_TEMPLATE/aristotle_feedback.md) |
-| 📚 `documentation` | Docs improvement | Create issue directly |
-| ❓ `question` | Ask a question | Create issue directly |
-
-**Priority Levels:** `P0-Critical` | `P1-High` | `P2-Normal` | `P3-Low`
-
-**See all labels:** [Labels Guide](docs/LABELS_GUIDE.md)
+**What is NOT here:** platform source code, the RAG corpus, persona system prompts, and model weights configuration are proprietary. This repo is the public-facing layer: documentation, benchmark data, and community infrastructure.
 
 ---
 
-## 🎯 Areas We Need Help
+## Community
 
-| Priority | Area | Description |
-|----------|------|-------------|
-| 🔴 **High** | Greek Orthography | Verify Polytonic Greek accents & breathings |
-| 🔴 **High** | Translation | Improve English/Modern Greek translations |
-| 🔴 **High** | Philosophy | Verify Aristotelian accuracy |
-| 🟡 **Medium** | Documentation | Improve user guides & FAQ |
-| 🟡 **Medium** | Testing | Test new features before release |
-| 🟢 **Low** | Community | Moderate discussions & welcome users |
+### Report issues & request features
+Use the **Issues** tab. Aristotle-specific feedback (Greek orthography, translations, philosophical accuracy) has its own template — your expertise genuinely improves the product.
 
----
+| Label | Purpose |
+|-------|---------|
+| 🐛 `bug` | Bug reports |
+| ✨ `enhancement` | Feature requests |
+| 🏛️ `aristotle` | Aristotle persona feedback |
+| 📚 `documentation` | Docs improvements |
 
-## 📖 Quick Links
+Priority levels: `P0-Critical` · `P1-High` · `P2-Normal` · `P3-Low` — see [Labels Guide](docs/LABELS_GUIDE.md).
 
-| Resource | Link |
+### Areas we need help
+
+| Priority | Area |
 |----------|------|
-| **Main Website** | [daimones.ai](https://daimones.ai) |
-| **Lyceum (User App)** | [lyceum.daimones.ai](https://lyceum.daimones.ai) |
-| **Admin Dashboard** | [admin.daimones.ai](https://admin.daimones.ai) |
-| **Discussions** | [Community Forum](../../discussions) |
-| **Issues** | [Issue Tracker](../../issues) |
+| 🔴 High | Greek orthography verification (polytonic accents & breathings) |
+| 🔴 High | Translation quality (EN / Modern Greek) |
+| 🔴 High | Aristotelian accuracy review |
+| 🟡 Medium | Documentation, testing |
+
+### Guidelines
+- [Contributing Guide](CONTRIBUTING.md) · [Code of Conduct](CODE_OF_CONDUCT.md) · [Security Policy](SECURITY.md)
 
 ---
 
-## 🤝 Community
+## For researchers & institutions
 
-### Code of Conduct
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand how we interact as a community.
+- **Academic inquiries / institutional deployment:** architect@daimones.ai
+- **General support:** support@daimones.ai
+- **Citation:** see [FAQ](docs/FAQ.md)
 
-### How to Help
-1. **Test Aristotle** and report issues
-2. **Suggest improvements** via feature requests
-3. **Share your expertise** in discussions
-4. **Spread the word** to fellow philosophy enthusiasts
-
-### Recognition
-We acknowledge all contributors who help make daïmōnes better. Active contributors may be invited to join the core team!
+daïmōnes is built by [Vasilis Stergiou](https://x.com/VasilisStergiou) · PowerHouse Consulting Group Pte Ltd, Singapore.
 
 ---
 
-## 📞 Contact
+## License
 
-| Purpose | Contact |
-|---------|---------|
-| **General Inquiries** | [Open a Discussion](../../discussions) |
-| **Technical Support** | [Bug Report](../../issues/new?template=bug_report.md) |
-| **Feature Requests** | [Feature Request](../../issues/new?template=feature_request.md) |
-| **Aristotle Feedback** | [Aristotle Feedback](../../issues/new?template=aristotle_feedback.md) |
-| **Partnership Inquiries** | architect@daimones.ai |
-| **Academic Licenses** | architect@daimones.ai |
-
----
-
-## 📄 License
-
-This community repository is licensed under [MIT](LICENSE).
-
-**Note:** The daïmōnes platform source code, training data, and AI models are proprietary and not included in this public repository.
-
----
-
-## 🙏 Acknowledgments
-
-Thank you to our community members, NGO partners, and academic advisors who help make daïmōnes better every day.
-
-**Special thanks to:**
-- Our NGO partners for orthography validation
-- University pilot partners for feedback
-- The open-source community for tools and inspiration
-
----
+This community repository is [MIT](LICENSE) licensed. The daïmōnes platform, training data, and models are proprietary.
 
 <div align="center">
 
-**🏛️ daïmōnes** · *Pursuing Wisdom Through Dialogue*
+**daïmōnes** · *Pursuing Wisdom Through Dialogue*
 
-[Report Issue](../../issues) · [Request Feature](../../issues) · [Discussions](../../discussions) · [Website](https://daimones.ai)
+[Live Demo](https://huggingface.co/spaces/thevasilis/daimones) · [Website](https://daimones.ai) · [Issues](../../issues) · [Discussions](../../discussions)
 
 </div>

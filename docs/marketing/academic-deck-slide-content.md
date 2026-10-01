@@ -128,7 +128,7 @@
 │  • Full control over model behavior and guardrails      │
 │                                                         │
 │  ┌─────────────────────────────────────────────────┐    │
-│  │  Stack: llama.cpp + Qwen3.6-27B + NVIDIA L4     │    │
+│  │  Stack: llama.cpp + Qwen3.8-27B + NVIDIA L4     │    │
 │  │  CMS: Directus (self-hosted)                    │    │
 │  │  DB: PostgreSQL + pgvector                      │    │
 │  │  Frontend: React + TypeScript + Vite            │    │
@@ -150,30 +150,35 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  GOLDEN BENCHMARK — PHILOSOPHICAL REASONING             │
+│  GOLDEN BENCHMARK v2.1 — PHILOSOPHICAL REASONING        │
+│  Identical Aristotle system prompt for ALL models       │
 │  ───────────────────────────────────────                 │
 │                                                         │
 │  ┌──────────────────────────────────────────────────┐    │
 │  │                                                  │    │
-│  │    daïmōnes  ████████████████████████████  76.6  │    │
+│  │    daïmōnes        ████████████████████████  84  │    │
 │  │                                                  │    │
-│  │    ChatGPT   ██████████                    26.4  │    │
+│  │    ChatGPT GPT-5.4 ██████████████████████    79  │    │
 │  │                                                  │    │
-│  │    Claude    ████████████                  31.6  │    │
+│  │    Gemini 3.6-fl.  ████████████████████    70.4  │    │
+│  │                                                  │    │
+│  │    Grok 4.3        ██████████████████      64.7  │    │
 │  │                                                  │    │
 │  └──────────────────────────────────────────────────┘    │
 │                                                         │
 │  Scoring dimensions:                                    │
-│  • Polytonic Greek accuracy (40%)                       │
-│  • Syllogistic structure (30%)                          │
-│  • Dialectical depth (30%)                              │
+│  • Terminology (polytonic accuracy)                     │
+│  • Structure (syllogistic form)                         │
+│  • Fidelity to primary sources                          │
+│  • Reasoning (dialectical depth)                        │
 │                                                         │
-│  daïmōnes scores 3× higher on classical philosophy.     │
+│  Sept 19, 2026 run. Raw data + rubric public on GitHub. │
+│  Claude not tested (no API access) — we say so.         │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
-**Speaker Notes:** *"This is the Golden Benchmark v2.1 — 10 questions in classical philosophy, scored on Greek terminology, syllogistic structure, and dialectical depth. daïmōnes scores 76.6 out of 100. ChatGPT: 26.4. Claude: 31.6. That's not a 20% improvement — it's a 3× improvement. The difference is that daïmōnes was built for this. The commercial models weren't."*
+**Speaker Notes:** *"This is the Golden Benchmark v2.1 — 10 questions in classical philosophy. The critical detail: every model received the identical Aristotle system prompt, so we are comparing grounding and reasoning, not prompt engineering. daïmōnes scores 84 out of 100; ChatGPT GPT-5.4 scores 79; Gemini 3.6-flash 70.4; Grok 4.3 64.7. This ran on a single $600/month VM. The margin is modest by design — we publish the raw responses and rubric on GitHub so you can re-score them yourself. We did not test Claude because we have no API access, and we do not publish numbers we cannot reproduce."*
 
 ---
 

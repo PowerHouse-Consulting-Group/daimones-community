@@ -101,7 +101,7 @@ Isometric abstract composition, matte cream parchment background with warm ivory
 Abstract data visualization background, warm ivory gradient with subtle golden highlights suggesting upward data trends, classical column silhouettes as chart metaphor, professional analytics aesthetic with scholarly restraint, soft warm lighting, muted gold and bronze tones, generous negative space for chart overlay, no text or numbers --ar 16:9 --style raw --v 7 --q 2
 ```
 
-**Note:** For actual benchmark numbers (76.6 vs 26.4 vs 31.6), use the infographic from `~/daimones-repo/frontend/public/infographics/benchmark-scores.webp` or generate fresh with code.
+**Note:** For actual benchmark numbers use the VERIFIED Sept 19 2026 run (daïmōnes 84 vs ChatGPT GPT-5.4 79 vs Gemini 3.6-flash 70.4 vs Grok 4.3 64.7, identical Aristotle system prompt — raw data in `data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json`). The older 76.6/26.4/31.6 figures are DEPRECATED: the commercial models lacked the shared system prompt, so they are not a fair comparison. Do not use them.
 
 ---
 

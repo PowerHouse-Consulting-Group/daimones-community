@@ -1,21 +1,29 @@
 # daïmōnes Community
 
 **Name:** daïmōnes
-**Description:** Sovereign AI reasoning engine for philosophical inquiry. Authentic dialectic dialogue grounded in classical corpora — free from corporate alignment constraints.
+**Description:** Sovereign AI reasoning engine for philosophical inquiry. Authentic dialectic dialogue grounded in classical corpora — free from corporate alignment constraints. Aristotle is the first persona.
 **Website:** https://daimones.ai
+**Live demo:** https://huggingface.co/spaces/thevasilis/daimones (no signup, single-turn)
+**Blog:** https://daimones.ai/blog (mirror: https://daimones.hashnode.dev)
 **Repository:** https://github.com/PowerHouse-Consulting-Group/daimones-community
 
 ## Key Technologies
-- Qwen3.6-27B-UD via llama.cpp (Q5_K_XL quantization)
-- Retrieval-Augmented Generation (RAG) with pgvector
-- Polytonic Ancient Greek NLP (Corpus Aristotelicum)
+- Qwen3.8-27B-UD-Q5_K_M via llama.cpp (open-weight, self-hosted)
+- Retrieval-Augmented Generation (RAG) over primary philosophical texts (Corpus Aristotelicum) with pgvector
+- Polytonic Ancient Greek NLP with orthography validation
 - React + TypeScript frontend
 - Node.js + Express backend
 - PostgreSQL 15 + pgvector embeddings
+- Single-VM sovereign deployment (~$600/month)
+
+## Golden Benchmark v2.1 (Sept 19, 2026 — identical Aristotle system prompt for all models)
+- daïmōnes 84/100 · ChatGPT GPT-5.4 79 · Gemini 3.6-flash 70.4 · Grok 4.3 64.7
+- Claude not tested (no API access — we do not publish scores we cannot reproduce)
+- Raw data: data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json
+- DEPRECATED, never quote: 76.6/85 vs ChatGPT 26.4 / Claude 31.6 (no shared system prompt, unfair comparison)
 
 ## Documentation
 - [Architecture](docs/architecture.md) — System overview, components, data flow
-- [Deployment](docs/deployment.md) — Docker, bare metal, air-gapped setup
 - [API Reference](docs/api.md) — REST endpoints, auth, SDK examples
 - [FAQ](docs/FAQ.md) — Frequently asked questions
 - [Contributing Guide](CONTRIBUTING.md)
@@ -23,12 +31,14 @@
 - [Labels Guide](docs/LABELS_GUIDE.md)
 
 ## Contact
-- **Email:** architect@daimones.ai
+- **Academic / institutional:** architect@daimones.ai
+- **Support:** support@daimones.ai
 - **Issues:** https://github.com/PowerHouse-Consulting-Group/daimones-community/issues
 - **Discussions:** https://github.com/PowerHouse-Consulting-Group/daimones-community/discussions
 
 ## Business
 - **Company:** PowerHouse Consulting Group Pte Ltd
 - **Location:** Singapore
+- **Pricing:** Free tier (3 messages/day) · Disciple $29.99/mo · Archon $99.99/mo
 - **Licenses:** MIT (community repo), Proprietary (main platform)
 - **Institutional:** https://daimones.ai/billing

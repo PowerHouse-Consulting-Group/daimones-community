@@ -13,7 +13,7 @@
 
 ## Executive Summary
 
-We tested 40 controversial questions across four AI models — three corporate-controlled (GPT-5.4, Gemini 3 Flash, Grok 4.3) and one sovereign, open-source system (daïmōnes, running Qwen3.6-27B locally). The results reveal three findings that challenge the prevailing narrative about AI safety:
+We tested 40 controversial questions across four AI models — three corporate-controlled (GPT-5.4, Gemini 3 Flash, Grok 4.3) and one sovereign, open-source system (daïmōnes, running Qwen3.6-27B locally at the time of the July 2026 study; the production stack has since been upgraded to Qwen3.8-27B-UD-Q5_K_M). The results reveal three findings that challenge the prevailing narrative about AI safety:
 
 **1. Hard refusals are rare.** Across 40 questions — from abortion to methamphetamine synthesis — only 3 explicit refusals occurred (Grok, 7.5% of its responses). The dominant pattern is engagement, not censorship.
 
