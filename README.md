@@ -51,7 +51,7 @@ Raw run data: [`data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json
 
 | Path | What |
 |------|------|
-| [`docs/`](docs/README.md) | Architecture, API reference, FAQ |
+| [`docs/`](docs/README.md) | Architecture, sovereign deployment guide (institutional), API reference, FAQ |
 | [`data/benchmarks/`](data/benchmarks/) | Raw benchmark data (Golden Benchmark v2.1, refusal-rate study) |
 | [`assets/infographics/`](assets/infographics/) | Infographic library (webp/jpg) + generation prompts |
 | [`scripts/evaluations/`](scripts/evaluations/) | Evaluation scripts (refusal-rate studies) |

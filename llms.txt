@@ -24,6 +24,7 @@
 
 ## Documentation
 - [Architecture](docs/architecture.md) — System overview, components, data flow
+- [Sovereign Deployment Guide](docs/deployment.md) — Institutional deployment models (managed sovereign, on-prem, air-gapped), hardware requirements, GDPR/compliance
 - [API Reference](docs/api.md) — REST endpoints, auth, SDK examples
 - [FAQ](docs/FAQ.md) — Frequently asked questions
 - [Contributing Guide](CONTRIBUTING.md)

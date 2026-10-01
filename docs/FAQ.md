@@ -165,6 +165,7 @@ Use our [Discussions](../../discussions) tab for:
 | [Code of Conduct](../CODE_OF_CONDUCT.md) | Community guidelines |
 | [Labels Guide](LABELS_GUIDE.md) | Issue organization |
 | [Architecture](architecture.md) | System overview and tech stack |
+| [Sovereign Deployment Guide](deployment.md) | Institutional deployment (managed, on-prem, air-gapped) |
 | [API Reference](api.md) | REST API documentation |
 
 ---
