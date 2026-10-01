@@ -1,15 +1,18 @@
 # daïmōnes Infographic System Prompts (v3)
 ## 18 Image Generation Prompts
 
-> **DEPRECATION WARNING (Oct 1, 2026):** Prompts #1 and #2 in this file cite the OLD benchmark
-> figures (daïmōnes 85/76.6 vs ChatGPT 26.4 vs Claude 31.6). Those numbers are RETIRED —
-> the commercial models lacked the shared Aristotle system prompt, so the comparison was unfair
-> and is no longer quoted anywhere. The VERIFIED baseline is the Sept 19, 2026 run:
+> **DEPRECATION WARNING (Oct 1, 2026):** Prompts in this file for REFUSAL RATES, REASONING BY
+> DOMAIN, PHILOSOPHICAL DEPTH, SOVEREIGN vs CORPORATE, and THE ALIGNMENT TAX BREAKDOWN cite
+> FABRICATED competitor figures (e.g. "ChatGPT 70% refused", Claude domain scores) that
+> contradict our published refusal study (data/benchmarks/refusal_rate_study*.json: all models
+> ~0% refusal, Grok 0.15%). The corresponding images were DELETED Oct 1, 2026. Do NOT
+> regenerate any prompt containing competitor model scores unless the numbers come from
+> a published raw-data file. The VERIFIED benchmark baseline is the Sept 19, 2026 run:
 > daïmōnes 84/100, ChatGPT GPT-5.4 79, Gemini 3.6-flash 70.4, Grok 4.3 64.7
-> (identical system prompt; Claude untested, no API access).
-> Raw data: data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json
-> Do NOT regenerate any infographic from a prompt below without first rewriting its numbers
-> to the verified baseline.
+> (identical system prompt; Claude untested). The old 85/76.6 vs 26.4/31.6 figures are RETIRED.
+> Data-backed replacements already generated: THE_ALIGNMENT_TAX_v2.webp (4-model totals) and
+> BENCHMARK PROGRESSION.webp (per-question breakdown), both from
+> data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json.
 
 **Global parameters:** --ar 16:9 --style raw --v 7
 **Visual style:** Dark cyberpunk + ancient Greek temple aesthetics

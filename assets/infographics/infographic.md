@@ -1,5 +1,11 @@
 # daïmōnes Infographic System Prompts
 
+> **DEPRECATION NOTICE (Oct 1, 2026):** Prompts citing competitor model scores that are not in a
+> published raw-data file are DEPRECATED (fabricated refusal rates, invented Claude/ChatGPT
+> domain scores). Those images were deleted Oct 1 2026. Only generate infographics whose numbers
+> come from data/benchmarks/*.json in this repo. See infographic-v3.md header for the verified
+> Sept 19 2026 baseline.
+
 **Last Updated:** 2026-10-01 09:01
 
 ## Current Status
