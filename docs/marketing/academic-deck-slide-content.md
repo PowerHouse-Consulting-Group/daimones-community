@@ -280,9 +280,10 @@
 │  │case study │           │friendly   │egress     │      │
 │  ├───────────┼───────────┼───────────┼───────────┤      │
 │  │from €4,900│ contact   │from €7,500│from €7,500│      │
-│  │(€0 for 1  │ for       │/yr        │ one-time  │      │
-│  │ flagship/ │ pricing   │           │+ €2,500/yr│      │
-│  │ year)     │           │           │maintenance│      │
+│  │per semester│ for      │/yr        │ one-time  │      │
+│  │(all paid, │ pricing   │           │+ €2,500/yr│      │
+│  │ no free   │           │           │maintenance│      │
+│  │ tier)     │           │           │           │      │
 │  └───────────┴───────────┴───────────┴───────────┘      │
 │                                                         │
 │  Start small, prove it works: a single professor        │
@@ -291,7 +292,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-**Speaker Notes:** *"Four ways in, matched to how departments actually pay. Semester Pilot from €4,900: one course, up to 50 seats, one semester, with conversation export for your research and a case study we co-author. Course Packs are quoted per institution for repeat adoption by individual professors. Department Annual from €7,500 per year: up to 200 seats, hosted by us, research tools included, and it is ELKE and grant funding friendly. And Lyceum in a Box from €7,500 one-time plus €2,500 per year maintenance: the full platform deployed on your own infrastructure, your data never leaves your walls. One flagship partnership per year is offered at zero cost in exchange for case-study and reference rights."*
+**Speaker Notes:** *"Four ways in, matched to how departments actually pay. Semester Pilot from €4,900: one course, up to 50 seats, one semester, with conversation export for your research and a case study we co-author. Course Packs are quoted per institution for repeat adoption by individual professors. Department Annual from €7,500 per year: up to 200 seats, hosted by us, research tools included, and it is ELKE and grant funding friendly. And Lyceum in a Box from €7,500 one-time plus €2,500 per year maintenance: the full platform deployed on your own infrastructure, your data never leaves your walls. All pilots are paid; case-study and reference rights can be exchanged for a negotiated discount, never for free access."*
 
 ---
 
