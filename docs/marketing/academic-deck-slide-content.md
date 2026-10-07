@@ -267,31 +267,31 @@
 │  ┌───────────┬───────────┬───────────┬───────────┐      │
 │  │Department │  College  │University │Enterprise │      │
 │  ├───────────┼───────────┼───────────┼───────────┤      │
-│  │50-200     │200-1,000  │Unlimited  │Commercial │      │
-│  │seats      │seats      │seats      │           │      │
+│  │ Semester  │ Course    │ Department│ Lyceum    │      │
+│  │ Pilot     │ Pack      │ Annual    │ in a Box  │      │
 │  ├───────────┼───────────┼───────────┼───────────┤      │
-│  │Self-hosted│+ 1 Custom │+ Unlimited│+ Full     │      │
-│  │Docker node│  Persona  │  Personas │  source   │      │
-│  │3 Core     │  Model    │  Custom   │  access   │      │
-│  │Personas   │LMS API    │  RAG      │  (license)│      │
-│  │Admin      │Priority   │  ingestion│Unlimited  │      │
-│  │dashboard  │  support  │Dedicated  │  internal │      │
-│  │Email      │           │  account  │  deploy   │      │
-│  │  support  │           │  manager  │40h know-  │      │
-│  │           │           │           │  ledge    │      │
-│  │           │           │           │  transfer │      │
+│  │1 course   │per course │up to 200  │self-hosted│      │
+│  │up to 50   │quoted per │seats      │Docker     │      │
+│  │seats      │institution│hosted     │deployment │      │
+│  │1 semester │           │research   │on YOUR    │      │
+│  │conversation│          │tools +    │infra      │      │
+│  │export for │           │export     │           │      │
+│  │research   │           │ELKE/grant │zero data  │      │
+│  │case study │           │friendly   │egress     │      │
 │  ├───────────┼───────────┼───────────┼───────────┤      │
-│  │ €15K/yr   │ €40K/yr   │ €75K/yr   │ €225K    │      │
-│  │           │           │           │+€40K/yr   │      │
+│  │from €4,900│ contact   │from €7,500│from €7,500│      │
+│  │(€0 for 1  │ for       │/yr        │ one-time  │      │
+│  │ flagship/ │ pricing   │           │+ €2,500/yr│      │
+│  │ year)     │           │           │maintenance│      │
 │  └───────────┴───────────┴───────────┴───────────┘      │
 │                                                         │
-│  All tiers: self-hosted, zero data egress,              │
-│  full source access, academic discount available.       │
+│  Start small, prove it works: a single professor        │
+│  can begin with one course. No procurement marathon.    │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
-**Speaker Notes:** *"Four tiers. Department for small departments — 50 to 200 seats, self-hosted Docker node, three core personas, €15K/year. College for mid-size institutions — up to 1,000 seats, one custom persona model, LMS integration API, €40K/year. University for full campus deployment — unlimited seats, unlimited custom personas, custom RAG ingestion, dedicated account manager, €75K/year. Enterprise for institutions that want maximum control — full source access under license, unlimited internal deployment, 40-hour knowledge transfer, €225K setup plus €40K per year maintenance contract. All tiers are self-hosted. Your infrastructure, your data. IP remains with daïmōnes; you get a perpetual license to use and modify internally."*
+**Speaker Notes:** *"Four ways in, matched to how departments actually pay. Semester Pilot from €4,900: one course, up to 50 seats, one semester, with conversation export for your research and a case study we co-author. Course Packs are quoted per institution for repeat adoption by individual professors. Department Annual from €7,500 per year: up to 200 seats, hosted by us, research tools included, and it is ELKE and grant funding friendly. And Lyceum in a Box from €7,500 one-time plus €2,500 per year maintenance: the full platform deployed on your own infrastructure, your data never leaves your walls. One flagship partnership per year is offered at zero cost in exchange for case-study and reference rights."*
 
 ---
 
