@@ -9,7 +9,7 @@ daïmōnes is an AI-powered philosophical dialogue platform featuring customized
 Ask historical personas questions about philosophy, ethics, logic, metaphysics, and more. Personas respond in Polytonic Ancient Greek with English translations, following Aristotelian methodology and sources.
 
 ### Is it free?
-We offer a **Free Tier** with 3 messages per day. For unlimited access and advanced features, subscribe to our **Disciple** ($29.99/month) or **Archon** ($99.99/month) tiers. Paid plans include a 14-day free trial. You can also try the no-signup demo on [HuggingFace Spaces](https://huggingface.co/spaces/thevasilis/daimones).
+We offer a **Free Tier** with 3 messages per day. For unlimited access and advanced features, subscribe to our **Disciple** ($29.99/month) or **Archon** ($99.99/month) tiers. The Disciple plan includes a 14-day free trial (no credit card required); Archon has no trial. You can also try the no-signup demo on [HuggingFace Spaces](https://huggingface.co/spaces/thevasilis/daimones).
 
 ---
 
