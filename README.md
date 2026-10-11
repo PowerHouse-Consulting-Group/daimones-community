@@ -55,7 +55,7 @@ Raw run data: [`data/benchmarks/golden_benchmark_v2.1_comparison_2026-09-19.json
 | [`data/benchmarks/`](data/benchmarks/) | Raw benchmark data (Golden Benchmark v2.1, refusal-rate study) |
 | [`assets/infographics/`](assets/infographics/) | Infographic library (webp/jpg) + generation prompts |
 | [`scripts/evaluations/`](scripts/evaluations/) | Evaluation scripts (refusal-rate studies) |
-| [`marketing/`](marketing/) | Launch assets and public campaign materials |
+| [`marketing/`](marketing/) | Launch assets and public campaign materials. [`whitepaper-the-alignment-tax.md`](marketing/whitepaper-the-alignment-tax.md) is **deliberately public** — it can be shared directly with institutional partners without going through the website's email lead-capture form. Do not remove or "protect" it. |
 
 **What is NOT here:** platform source code, the RAG corpus, persona system prompts, and model weights configuration are proprietary. This repo is the public-facing layer: documentation, benchmark data, and community infrastructure.
 
