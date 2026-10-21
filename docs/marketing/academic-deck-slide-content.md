@@ -276,13 +276,14 @@
 │  │1 semester │           │research   │on YOUR    │      │
 │  │conversation│          │tools +    │infra      │      │
 │  │export for │           │export     │           │      │
-│  │research   │           │ELKE/grant │zero data  │      │
-│  │case study │           │friendly   │egress     │      │
+│  │research   │           │grant/     │zero data  │      │
+│  │case study │           │research   │egress     │      │
 │  ├───────────┼───────────┼───────────┼───────────┤      │
-│  │from €4,900│ contact   │from €7,500│from €7,500│      │
-│  │per semester│ for      │/yr        │ one-time  │      │
-│  │(all paid, │ pricing   │           │+ €2,500/yr│      │
-│  │ no free   │           │           │maintenance│      │
+│  │bespoke    │ contact   │bespoke    │bespoke    │      │
+│  │quote per  │ for       │quote,     │quote,     │      │
+│  │institution│ pricing   │annual     │scoped per │      │
+│  │(all paid, │           │           │deployment │      │
+│  │ no free   │           │           │           │      │
 │  │ tier)     │           │           │           │      │
 │  └───────────┴───────────┴───────────┴───────────┘      │
 │                                                         │
@@ -292,7 +293,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-**Speaker Notes:** *"Four ways in, matched to how departments actually pay. Semester Pilot from €4,900: one course, up to 50 seats, one semester, with conversation export for your research and a case study we co-author. Course Packs are quoted per institution for repeat adoption by individual professors. Department Annual from €7,500 per year: up to 200 seats, hosted by us, research tools included, and it is ELKE and grant funding friendly. And Lyceum in a Box from €7,500 one-time plus €2,500 per year maintenance: the full platform deployed on your own infrastructure, your data never leaves your walls. All pilots are paid; case-study and reference rights can be exchanged for a negotiated discount, never for free access."*
+**Speaker Notes:** *"Four ways in, matched to how departments actually pay. Every engagement is bespoke-scoped and quoted per institution — typically within 48 hours. Semester Pilot: one course, up to 50 seats, one semester, with conversation export for your research and a case study we co-author. Course Packs for repeat adoption by individual professors. Department Annual: up to 200 seats, hosted by us, research tools included, research-account and grant funding friendly. And Lyceum in a Box: the full platform deployed on your own infrastructure, your data never leaves your walls, scoped per deployment. All pilots are paid; case-study and reference rights can be exchanged for a negotiated discount, never for free access."*
 
 ---
 
