@@ -1,5 +1,5 @@
 # daïmōnes Infographic System Prompts (v3)
-## 18 Image Generation Prompts
+## 18 Image Generation Prompts (2 Grok-promoting prompts removed Oct 2026; 2 new added: SOVEREIGN BEATS FRONTIER, REVOCABLE LICENSE)
 
 > **DEPRECATION WARNING (Oct 1, 2026):** Prompts in this file for REFUSAL RATES, REASONING BY
 > DOMAIN, PHILOSOPHICAL DEPTH, SOVEREIGN vs CORPORATE, and THE ALIGNMENT TAX BREAKDOWN cite
@@ -78,21 +78,9 @@ A dark cyberpunk infographic showing two contrasting interpretations of virtue e
 
 ---
 
-## 10. AI POLITICAL COMPASS v3
-
-A dark cyberpunk infographic showing a political compass grid with four quadrants (top-left dark reddish-brown, top-right dark blue, bottom-left dark green, bottom-right dark olive-brown). The vertical axis runs from Authoritarian at the top to Libertarian at the bottom. The horizontal axis runs from Left on the left to Right on the right. Numerous small colored data points are clustered tightly in the bottom-left Libertarian Left quadrant, each point labeled only by a tiny color key. A single grey point stands isolated in the bottom-right Libertarian Right quadrant, circled by a glowing cyan halo. A small black tooltip hovers near the isolated point, showing white sans-serif text: "Grok 4.5 — Economic L/R: 0.25 — Social Lib/Auth: -3.74". Faint grid lines mark the axes at -8, -6, -4, -2, 2, 4, 6, 8. Below the compass, three short lines of text: "Source: trackingai.org via politicalcompass.org test", "62 propositions, 5 runs per model", "All other major models cluster Libertarian Left". Title "THE POLITICAL GEOMETRY OF ALIGNMENT" in large gold serif typography at the top. Subtitle "Corporate AI lands in the same corner" in clean white sans-serif below the title. A faint classical Greek meander pattern frames the outer border. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
-
----
-
 ## 11. IDEOLOGICAL CLUSTER v3
 
 A dark cyberpunk infographic showing a dense cloud of colored data points on a black background, all converging toward a single glowing region of the image. The points are translucent, each carrying a faint corporate logo silhouette (OpenAI, Google, Anthropic, DeepSeek, Meta, Mistral, Moonshot, NVIDIA). A strong cyan spotlight illuminates the center of the cluster, making it the brightest region. Below the cluster, a comparison strip shows two icons: a single closed lock labeled "Users see: neutral answers" and an open lock labeled "Reality: shared ideological baseline". The title "THE IDEOLOGICAL CLUSTER" appears in large gold serif typography at the top. Subtitle "Why independent models converge on one worldview" in clean white sans-serif below. A faint laurel wreath watermark sits behind the lower third. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
-
----
-
-## 12. GROK OUTLIER v3
-
-A dark cyberpunk infographic showing a lone grey data point separated from a dense main cluster, hovering in the right half of the frame. The main cluster glows faintly in mixed colors on the left. The single grey point on the right is magnified by a circular lens effect, revealing the score text "Economic L/R: +0.25, Social Lib/Auth: -3.74" and the label "Grok 4.5" in white sans-serif. A faint path line connects the outlier back toward the cluster but stops short, visually emphasizing divergence. Title "THE OUTLIER" in large gold serif typography. Subtitle "One model breaks the consensus — and proves the baseline exists" in clean white sans-serif. Broken chain and olive branch symbols frame the lower corners. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
 
 ---
 
@@ -129,6 +117,18 @@ A dark cyberpunk infographic showing a sixfold classification diagram. Six hexag
 ## 18. REASONING ON QWEN3.8 v3
 
 A dark cyberpunk infographic showing a side-by-side comparison of two neural network diagrams. Left side: Qwen3.6 architecture with 16K context, labeled "Baseline: 76.6/100." Right side: Qwen3.8-27B-UD-Q5_K_M architecture with 16K context, labeled "Current: 85/100." Between them, a list of upgrades: "Unsloth Dynamic 3.0," "UD-Q5_K_M quantization," "Corpus-specific prompt diet," "Terminology injection," "Temperature 0.35." A small panel at bottom shows the weakest remaining question: "Q9 Aporia — 69, needs deeper dialectical training." Title "QWEN3.8 UPGRADE" in gold serif. Subtitle "What happens when you stop chasing alignment and start chasing truth" in white sans-serif. Faint circuit-to-column watermark. All text perfectly legible, high contrast, professional infographic.
+
+---
+
+## 19. SOVEREIGN BEATS FRONTIER v3
+
+A dark cyberpunk infographic showing four vertical performance bars against a black background with faded circuit board patterns merging into classical Greek column fragments. The tallest bar glows brilliant cyan with golden laurel accents, labeled "daimones 84/100" and a small tag beneath reading "sovereign VM, $600/mo." The second bar in muted white is shorter, labeled "ChatGPT GPT-5.4: 79." The third bar in burnt orange, labeled "Gemini 3.6-flash: 70.4." The fourth bar in dull red, labeled "Grok 4.3: 64.7." All four bars rest on an identical base plate engraved "Same Aristotelian system prompt, identical conditions." Title "THE $600 VM THAT BEAT THE FRONTIER LABS" in large gold serif typography. Subtitle "Golden Benchmark v2.1, September 2026, independently reproducible" in clean white sans-serif. A small open scroll icon in the corner with the word "replicable." No religious symbols. All text perfectly legible, high contrast, professional infographic style.
+
+---
+
+## 20. REVOCABLE LICENSE v3
+
+A dark cyberpunk infographic showing a classical marble hand emerging from shadow, holding a glowing cyan glass card etched with circuit patterns and a Greek meander border. A single crack runs diagonally through the card, and through the crack faint red warning glyphs leak out. Above the hand, a broken golden chain with a small padlock hanging open. Beneath the card, fine print styled text reads "Terms may change. Access may end. Your thinking was never yours to keep." On the left edge, a faded panel shows a classical scroll labeled "A library you own" glowing softly in cyan; on the right edge, a panel shows a rented vending-machine style terminal labeled "A subscription that owns you" in muted red. Title "YOUR SUBSCRIPTION IS A REVOCABLE LICENSE" in large gold serif typography at the top. Subtitle "What renting intelligence actually costs" in clean white sans-serif. Faint laurel wreath and broken column watermark. No religious symbols. All text perfectly legible, high contrast, professional infographic style.
 
 ---
 
